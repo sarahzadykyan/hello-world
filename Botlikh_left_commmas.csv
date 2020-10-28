@@ -1,0 +1,2649 @@
+N_umber,Loc_cluster_IPA,Dir_IPA,Loc_cluster,Form,Sample_1,Source,Spatial
+1,ƛʼ,a,кь,кьи́ркьа,sample,AA,no
+2,NA,a,NA,бакьа,х,AA,no
+3,NA,a,NA,бакьа,х,AA,no
+4,NA,a,NA,бе́кьа,sample,AA,yes
+5,NA,a,NA,рекьара́,sample,AA,yes
+6,NA,a,NA,бекьара́,sample,AA,yes
+7,χ,a,х,бекьара́ха,sample,AA,yes
+8,unclear,a,unclear,бекьараду́,х,AA,yes
+9,NA,ku,NA,бекьараду́ку,х,AA,yes
+10,NA,NA,NA,бекьарадуссуб,х,AA,yes
+11,NA,a,NA,бе́кьа,х,AA,yes
+12,NA,a,NA,бе́кьа,х,AA,yes
+13,NA,a,NA,рекьараду́,sample,AA,yes
+14,NA,a,NA,ва́кьа,sample,AA,no_metaph
+15,NA,a,NA,ва́кьа,х,AA,no
+16,NA,a,NA,ва́кьа,х,AA,no
+17,NA,a,NA,ва́кьа,sample,AA,unclear
+18,NA,a,NA,ва́кьа,х,AA,no
+19,NA,a,NA,ва́кьа,х,AA,no
+20,NA,a,NA,ва́кьа,х,AA,no
+21,NA,a,NA,ва́кьа,х,AA,no_metaph
+22,NA,a,NA,ва́кьа,sample,AA,no
+23,NA,a,NA,ва́кьа,х,AA,no
+24,NA,a,NA,ва́кьа,х,AA,no_metaph
+25,NA,a,NA,ва́кьа,х,AA,no
+26,NA,a,NA,ва́кьа,х,AA,no
+27,NA,a,NA,векьара́,х,AA,yes
+28,NA,a,NA,векьара́,х,AA,yes
+29,NA,a,NA,векьара́,sample,AA,yes
+30,NA,a,NA,вакьа,sample,AA,no
+31,NA,a,NA,векьара́,х,AA,yes
+32,NA,a,NA,ра́кьа ,sample,AA,unclear
+33,ƛʼ,a,кь,гьикьа,sample,AA,yes
+34,NA,a,NA,ва́кьа,х,AA,no
+35,NA,a,NA,ва́кьа,х,AA,no
+36,NA,a,NA,ва́кьа,х,AA,no
+37,ƛʼ,a,кь,къвари́лъикьа,sample,AA,no
+38,ɬ,a,лъ,къвари́лъилъа,sample,AA,no
+39,NA,a,NA,вакьа,sample,AA,yes
+40,NA,a,NA,ва́кьа ,х,AA,yes
+41,ƛʼ,a,кь,гьи́кьа,sample,AA,yes
+42,ƛʼ,a,кь,гьикьа́ ,sample,AA,yes
+43,NA,a,NA,регьина ,sample,AA,no
+44,ƛʼ,a,кь,бала́гьакьа,sample,AA,no
+45,NA,a,NA,бекьара́,sample,AA,yes
+46,NA,a,NA,ва́кьа,х,AA,no
+47,NA,a,NA,вакьа,х,AA,no
+48,ƛʼ,a,кь,гъва́ркьа,sample,AA,yes
+49,NA,a,NA,рекьара́,х,AA,yes
+50,ƛʼ,a,кь,гъогъолакьа,х,AA,unclear
+51,NA,a,NA,гьакье́ру-гьа́кьа,х,AA,no_time
+52,NA,a,NA,гьакье́ру-гьа́кьа,sample,AA,no_time
+53,NA,a,NA,гьакье́ру-гьа́кьа,х,AA,no_time
+54,ƛʼ,a,кь,гьантIукIакьа,sample,AA,yes
+55,ƛʼ,a,кь,гьикьа,sample,AA,no
+56,unclear,a,unclear,гье́кукьа,sample,AA,yes
+57,ƛʼ,a,кь,гьикьикьа,sample,AA,yes 
+58,ƛʼ,a,кь,гьикьа,х,AA,yes
+59,ƛʼ,a,кь,гьикьа,sample,AA,no
+60,ƛʼ,a,кь,гьикьа́ ,х,AA,yes
+61,ƛʼ,a,кь,гьикьа-гье,sample,AA,yes
+62,ƛʼ,a,кь,гьикьа-гье́,х,AA,yes
+63,ƛʼ,a,кь,гьикьа-гье́,sample,AA,yes
+64,ƛʼ,a,кь,гьикьа-гье́,х,AA,yes
+65,ƛʼ,a,кь,гьикьаду́,sample,AA,yes
+66,ƛʼ,ku,кь,гьикьаду́ку,х,AA,yes
+67,ƛʼ,ku,кь,гьикьаду́ку,sample,AA,yes
+68,ƛʼ,a,кь,гIакъубакьа́,х,AA,no
+69,NA,a,NA,бакьа,sample,AA,no
+70,ƛʼ,a,кь,а́хикьа ,sample,AA,yes
+71,ƛʼ,a,кь,къвари́лъикьа,х,AA,no
+72,ƛʼ,a,кь,къвари́лъикьа,х,AA,no
+73,ƛʼ,a,кь,зивабакьа,х,AA,no_metaph
+74,ɬː,NA,лълъ,къварилъилълъи,sample,AA,no
+75,NA,a,NA,бакьа,х,AA,yes
+76,mix,a,mix,кьва́гьичІукьа,sample,AA,no
+77,mix,a,mix,кьу́дихикьа ,sample,AA,yes
+78,NA,a,NA,бекьара́ ,sample,AA,yes
+79,NA,a,NA,бекьара́ ,х,AA,yes
+80,NA,a,NA,бакьа,sample,AA,yes
+81,ƛʼ,a,кь,на́лъикьа,sample,AA,no
+82,NA,a,NA,ра́кьа,sample,AA,yes
+83,NA,a,NA,ва́кьа,sample,AA,no
+84,NA,a,NA,ракьа,sample,AA,yes
+85,NA,a,NA,ва́кьа,sample,AA,yes
+86,NA,a,NA,ва́кьа,х,AA,yes
+87,NA,a,NA,ва́кьа,х,AA,yes
+88,ƛʼ,a,кь,гьикьа-гье́,х,AA,yes
+89,ƛʼ,a,кь,гьикьа-гье́,sample,AA,yes
+90,NA,a,NA,бакьа,sample,AA,yes
+91,NA,a,NA,рекьара́,х,AA,yes
+92,ƛʼ,a,кь,решинакьа́,sample,AA,yes
+93,ƛʼ,a,кь,гьикьа́ ,sample,AA,no
+94,ƛʼ,a,кь,гьикьа́ ,х,AA,no
+95,ƛʼ,a,кь,гьикьа́ ,х,AA,yes
+96,ƛʼ,a,кь,бе́рхинакьа́,sample,AA,no
+97,ƛʼ,a,кь,гьикьа́ гье,sample,AA,yes
+98,NA,a,NA,микьа́,sample,AA,yes
+99,ƛʼ,a,кь,гьикьа́,х,AA,yes
+100,ƛʼ,a,кь,гьикьа́,х,AA,yes
+101,mix,a,mix,гьикьа́ха,sample,AA,yes
+102,ƛʼ,a,кь,гьикьа́,х,AA,yes
+103,ƛʼ,a,кь,гьикьа́ ,х,AA,no
+104,ƛʼ,a,кь,решинакьа́,sample,AA,no
+105,ƛʼ,a,кь,гьикьа́,х,AA,yes
+106,ƛʼ,a,кь,гъванкьа́,sample,AA,yes
+107,ƛʼ,a,кь,решинакьа́,sample,AA,no_sense
+108,ƛʼ,a,кь,гьикьа́,sample,AA,yes
+109,ƛʼ,a,кь,гьикьа́,sample,AA,yes
+110,ƛʼ,a,кь,гьикьа́,х,AA,yes
+111,ƛʼ,a,кь,гьикьа́,sample,AA,no
+112,ƛʼ,a,кь,гьикьа́,х,AA,yes
+113,ƛʼ,a,кь,гьикьа́,х,AA,yes
+114,ƛʼ,a,кь,гьикьа́,х,AA,no
+115,ƛʼ,a,кь,гьикьа́гье,sample,AA,unclear
+116,ƛʼ,a,кь,гьикьа́-гье,х,AA,yes
+117,ƛʼ,a,кь,гIайибакьа́,sample,AA,no
+118,ƛʼ,a,кь,законакьа́,х,AA,no
+119,ƛʼ,a,кь,гьикьа́,х,AA,yes
+120,ƛʼ,a,кь,гьикьа́,х,AA,yes
+121,ƛʼ,a,кь,гьикьа́,х,AA,no
+122,ƛʼ,a,кь,гьикьа́,х,AA,yes
+123,ƛʼ,a,кь,гьикьа́,х,AA,yes
+124,ƛʼ,a,кь,гьикьа́,sample,AA,yes
+125,ƛʼ,a,кь,гьикьа́,sample,AA,yes
+126,ƛʼ,a,кь,гьикьа́,х,AA,yes
+127,ƛʼ,a,кь,гьикьа́,х,AA,yes
+128,ƛʼ,a,кь,микъаракьа́,sample,AA,yes
+129,unclear,a,unclear,гьикьа́б,sample,AA,no
+130,ƛʼ,a,кь,гьикьа́,sample,AA,yes
+131,ƛʼ,a,кь,решинакьа́,sample,AA,yes
+132,ƛʼ,a,кь,гьикьа́ гье,х,AA,yes
+133,ƛʼ,a,кь,гьикьа́,х,AA,yes
+134,ƛʼ,a,кь,тамихIакьа́,sample,AA,no
+135,ƛʼ,a,кь,тамихIакьа́,х,AA,no
+136,ƛʼ,a,кь,тамихIакьа́,х,AA,no
+137,ƛʼ,a,кь,тамихIакьа́,х,AA,no
+138,ƛʼ,a,кь,гьикьа́-гье,sample,AA,yes
+139,ƛʼ,a,кь,гьикьа́-гье,х,AA,yes
+140,ƛʼ,a,кь,гьикьа́,х,AA,no
+141,ƛʼ,a,кь,гьикьа́,sample,AA,no
+142,ƛʼ,a,кь,гьикьа́,х,AA,no
+143,ɬ,a,лъ,телепо́налъа,sample,AA,yes
+144,ɬ,a,лъ,су́тІилъа,sample,AA,no_metaph
+145,ɬ,a,лъ,къе́цІилъа,sample,AA,no
+146,ɬː,a,лълъ,багьа́лълъа,sample,AA,no
+147,ɬ,a,лъ,кино́лъа,sample,AA,no
+148,ɬː,a,лълъ,гьу́лълъа,х,AA,no_time
+149,ɬː,a,лълъ,гьу́лълъа,sample,AA,no_time
+150,ɬː,a,лълъ,беххи́лълъа,х,AA,unclear
+151,ɬː,a,лълъ,беххи́лълъа,х,AA,unclear
+152,ɬː,a,лълъ,беххи́лълъа,sample,AA,unclear
+153,ɬː,a,лълъ,беххи́лълъа,х,AA,unclear
+154,ɬː,a,лълъ,беххи́лълъа,х,AA,unclear
+155,ɬː,a,лълъ,беххи́лълъа,х,AA,unclear
+156,ɬː,a,лълъ,беххи́лълъа,х,AA,unclear
+157,ɬː,a,лълъ,москве́лълъа,sample,AA,yes
+158,ɬː,a,лълъ,бешена́лълъа,х,AA,yes
+159,ɬː,a,лълъ,чанта́лълъа,sample,AA,yes
+160,ɬː,a,лълъ,чанта́лълъа,х,AA,yes
+161,ɬː,a,лълъ,багьа́лълъа,х,AA,no
+162,ɬ,a,лъ,ба́нилъа,sample,AA,yes
+163,ɬ,a,лъ,падва́ралъа,sample,AA,yes
+164,NA,a,NA,ба́ртилъа,sample,AA,unclear
+165,ɬː,a,лълъ,гьа́лълъа,х,AA,unclear
+166,ɬ,a,лъ,газе́тилъа ,sample,AA,no
+167,ɬ,a,лъ,мигъилъа,х,AA,yes
+168,ɬ,a,лъ,амбулато́рилъа,sample,AA,yes
+169,ɬ,a,лъ,ацта́вкалъа,х,AA,no
+170,ɬ,a,лъ,ба́йлъа,х,AA,no
+171,ɬ,a,лъ,ба́йлъа,х,AA,unclear
+172,ɬ,a,лъ,ба́йлъа,sample,AA,no
+173,ɬ,a,лъ,ба́йлъа,х,AA,no
+174,ɬ,a,лъ,ми́гъвалъа,sample,AA,yes
+175,ɬ,a,лъ,ми́гъвалъа,х,AA,yes
+176,ɬ,a,лъ,би́ччилъа,sample,AA,no
+177,ɬː,a,лълъ,га́рлълъа,sample,AA,no
+178,ɬː,a,лълъ,багана́лълъа,sample,AA,yes
+179,ɬ,a,лъ,зако́налъа,sample,AA,no
+180,ɬː,a,лълъ,гьу́лълъа,х,AA,no
+181,ɬ,a,лъ,ре́лъа,sample,AA,yes
+182,ɬ,a,лъ,ру́хьулъа,х,AA,yes
+183,ɬ,a,лъ,куро́рталъа,sample,AA,yes
+184,ɬ,a,лъ,теа́терлъа,sample,AA,no
+185,ɬ,a,лъ,би́ччилъа,sample,AA,yes
+186,ɬ,a,лъ,до́нгилъа,х,AA,yes
+187,ɬː,a,лълъ,на́лълъа,sample,AA,unclear
+188,ɬ,a,лъ,мина́лъа,sample,AA,yes
+189,ɬ,a,лъ,институ́тилъа,sample,AA,no_metaph
+190,ɬ,a,лъ,комсомо́лалъа,sample,AA,no_metaph
+191,ɬ,a,лъ,па́ртилъа,sample,AA,unclear
+192,ɬ,a,лъ,ра́гъилъа,sample,AA,no
+193,ɬ,a,лъ,гу́латирлъа,sample,AA,no
+194,ɬ,a,лъ,разве́дкалъа,sample,AA,no
+195,ɬ,a,лъ,ханлъи́лъа,sample,AA,no
+196,unclear,a,unclear,га́лълъа,х,AA,yes
+197,ɬː,a,лълъ,га́рлълъа,х,AA,no
+198,ɬː,a,лълъ,га́рлълъа,х,AA,no
+199,ɬː,a,лълъ,га́рлълъа,х,AA,no
+200,ɬː,a,лълъ,га́рлълъа,sample,AA,no
+201,ɬː,ku,лълъ,го́лълъаку,х,AA,yes
+202,unclear,a,unclear,анта́ралъа,х,AA,
+203,ɬ,a,лъ,мигъилъа,х,AA,yes
+204,χ,NA,х,гъижихи,sample,AA,yes
+205,ɬ,a,лъ,гъи́жилъа ,sample,AA,yes
+206,ɬ,a,лъ,да́рццилъа,х,AA,no
+207,ɬ,a,лъ,донгилъа,sample,AA,yes
+208,ɬː,a,лълъ,гьу́лълъа,х,AA,no
+209,ɬ,a,лъ,гьу́лъа ,х,AA,no
+210,ɬ,a,лъ,гьинкIушалъа ,х,AA,yes
+211,ɬ,a,лъ,гьинкIушалъа ,sample,AA,yes
+212,ɬ,a,лъ,гьи́нцIалъа ,sample,AA,no
+213,ɬ,a,лъ,гьи́нцIалъа ,х,AA,no
+214,ɬ,a,лъ,гьи́нцIалъа ,х,AA,no
+215,ɬ,a,лъ,гIу́мрулъа,sample,AA,no
+216,ɬ,a,лъ,джуджахIалъа,sample,AA,no
+217,ɬ,a,лъ,дагІба́лъа,sample,AA,unclear
+218,ɬ,a,лъ,дагІба́лъа,х,AA,unclear
+219,ɬ,a,лъ,къайда́лъа,sample,AA,no
+220,ɬ,a,лъ,ишалъа,sample,AA,yes
+221,ɬ,a,лъ,мигъилъа,х,AA,yes 
+222,ɬ,a,лъ,капита́лилъа ,sample,AA,no
+223,ɬ,a,лъ,капита́лилъа ,х,AA,no
+224,ɬ,a,лъ,раъа́лъилъа,sample,AA,yes 
+225,ɬ,a,лъ,регьаба́йлъа,sample,AA,yes 
+226,ɬ,a,лъ,куро́рталъа,х,AA,yes
+227,ɬ,a,лъ,кьучІчІилъа,sample,AA,unclear
+228,ɬ,a,лъ,лагьлъи́лъа,sample,AA,no  
+229,ɬ,a,лъ,лагьлъи́лъа,х,AA,no  
+230,ɬ,a,лъ,лълъе́нилъа,х,AA,yes 
+231,ɬ,a,лъ,лълъе́нилъа,х,AA,yes 
+232,ɬ,a,лъ,гьа́нтІукІалъа,х,AA,yes 
+233,ɬ,a,лъ,до́зелъа,sample,AA,no  
+234,ɬ,a,лъ,миъа́ралъа,sample,AA,yes 
+235,ɬ,a,лъ,мо́далъа,х,AA,no  
+236,ɬ,a,лъ,мо́далъа,sample,AA,no  
+237,ɬ,a,лъ,да́чалъа,х,AA,yes 
+238,ɬ,a,лъ,мухъилъа,sample,AA,no  
+239,ɬ,a,лъ,ча́йникIилъа,sample,AA,yes
+240,ɬ,a,лъ,о́тпускалъа,х,AA,no
+241,ɬ,a,лъ,пе́нсилъа,х,AA,no  
+242,ɬ,a,лъ,питна́лъа,sample,AA,no_metaph
+243,ɬ,a,лъ,ра́гъилъа,х,AA,no
+244,ɬ,a,лъ,ра́гъилъа,sample,AA,no
+245,ɬ,a,лъ,чІчІелъа,sample,AA,yes 
+246,ɬ,a,лъ,за́лилъа,sample,AA,yes 
+247,ɬ,a,лъ,мина́лъа,х,AA,yes 
+248,ɬː,a,лълъ,чанталълъа ,х,AA,yes
+249,ɬː,a,лълъ,гьу́лълъа,sample,AA,no
+250,ɬ,a,лъ,сула́лъа,х,AA,no
+251,ɬ,a,лъ,сула́лъа,х,AA,no
+252,ɬ,a,лъ,сула́лъа,х,AA,no
+253,ɬ,a,лъ,сула́лъа,х,AA,no
+254,ɬ,a,лъ,сула́лъа,х,AA,no
+255,ɬ,a,лъ,батIе́блъа ,sample,AA,no
+256,ɬ,a,лъ,чІо́делъа,sample,AA,no
+257,ɬ,a,лъ,хІуккелалъа́ (хІукке́лалъа),sample,AA,no
+258,ɬ,a,лъ,батIе́блъа ,х,AA,no
+259,ɬ,a,лъ,са́рилъа,sample,AA,no
+260,ɬ,a,лъ,за́рилъа,sample,AA,no
+261,ɬ,a,лъ,ру́кьилъа,х,AA,no
+262,ɬ,a,лъ,ссе́кундалъа,sample,AA,no_time
+263,ɬ,a,лъ,пучка́лъа,х,AA,yes
+264,unclear,a,unclear,хъе́лъа,sample,AA,yes
+265,unclear,a,unclear,гъайлъа,sample,AA,yes
+266,ɬ,a,лъ,падва́лъа,sample,AA,yes
+267,ɬ,a,лъ,хIасси́лалъа,sample,AA,no
+268,ɬ,a,лъ,це́блъа ,sample,AA,no
+269,ɬ,a,лъ,цIцIа́нйлъа,х,AA,yes_lex
+270,ɬ,a,лъ,цIцIа́нйлъа,х,AA,yes_lex
+271,ɬ,a,лъ,цIцIа́нйлъа,х,AA,yes_lex
+272,ɬ,a,лъ,гІелмулъа,sample,AA,no
+273,ɬ,a,лъ,цIцIи́нтуралъа,sample,AA,no
+274,ɬ,a,лъ,чака́ралъа ,sample,AA,no
+275,ɬ,a,лъ,даражалъа,sample,AA,no
+276,ɬː,a,лълъ,арджаналълъа́,sample,AA,yes
+277,ɬː,a,лълъ,арджаналълъа́,х,AA,no_sense
+278,ɬ,a,лъ,армилъа́ ,х,AA,no_metaph
+279,ɬ,a,лъ,армилъа́ ,х,AA,no_metaph
+280,ɬ,a,лъ,армилъа́ ,х,AA,no_metaph
+281,ɬ,a,лъ,армилъа́ ,х,AA,no_metaph
+282,unclear,a,unclear,кІедалълъа́,х,AA,no
+283,ɬ,a,лъ,бертинлъа́,х,AA,no
+284,ɬ,a,лъ,бертинлъа́,х,AA,no
+285,ɬː,a,лълъ,ми́ъаралълъа́,sample,AA,yes 
+286,ɬ,a,лъ,гъунилъа́,sample,AA,yes 
+287,ɬː,a,лълъ,донгилълъа́,sample,AA,yes 
+288,ɬː,a,лълъ,рекулълъа́,sample,AA,yes 
+289,ɬː,a,лълъ,донгилълъа́ ,sample,AA,yes 
+290,ɬː,a,лълъ,Сибиралълъа́,sample,AA,yes 
+291,ɬ,a,лъ,ссутIилъа́ ,х,AA,no
+292,ɬ,a,лъ,лІенилъа́,sample,AA,yes 
+293,ɬ,a,лъ,вагоналъа́,sample,AA,yes 
+294,ɬ,a,лъ,лІенилъа́,х,AA,yes 
+295,ɬ,a,лъ,йашавалъа́,sample,AA,no
+296,ɬ,a,лъ,парадалъа́,sample,AA,no
+297,ɬː,a,лълъ,гьулъа́,х,AA,no
+298,ɬ,a,лъ,йаслилъа́,х,AA,no_metaph
+299,ɬ,a,лъ,интиралъа́,sample,AA,yes 
+300,ɬ,a,лъ,курсилъа́,sample,AA,no_metaph
+301,NA,a,NA,къварилъа́,sample,AA,no
+302,NA,a,NA,къварилъа́,х,AA,no
+303,ɬ,a,лъ,инссалъа́,sample,AA,yes 
+304,ɬ,a,лъ,лълъенилъа́,sample,AA,yes_lex
+305,ɬ,a,лъ,нассиралъа́,sample,AA,yes 
+306,ɬ,a,лъ,рагъилъа́ ,х,AA,no
+307,ɬ,a,лъ,хІайваналъа́,sample,AA,no
+308,ɬ,a,лъ,масхъа́ралъа́ ,sample,AA,no
+309,unclear,a,unclear,лалълъа́,sample,AA,yes
+310,ɬ,a,лъ,учоталъа́ ,sample,AA,no
+311,ɬ,a,лъ,хъаллалъа́,sample,AA,no
+312,ɬ,a,лъ,хIисабалъа́,х,AA,no
+313,ɬ,a,лъ,хІуккелалъа́ (хІукке́лалъа),х,AA,no
+314,ɬ,a,лъ,хІуккелалъа́ (хІукке́лалъа),х,AA,no
+315,ɬ,a,лъ,хІуккелалъа́ (хІукке́лалъа),х,AA,no
+316,ɬ,a,лъ,цIцIа́нйлъа,х,AA,yes_lex
+317,ɬ,a,лъ,цIцIа́нйлъа,х,AA,yes_lex
+318,ɬ,a,лъ,гьессублъа́,sample,AA,yes
+319,ƛ,a,лI,га́рлIа,х,AA,no
+320,ɬ,NA,лъ,устура́лъи,sample,AA,no_sense
+321,unclear,a,unclear,хъарщилIа ,sample,AA,unclear__sense
+322,ƛ,a,лI,чанта́лIа,sample,AA,no_sense
+323,ƛ,a,лI,гье́ссублIа,х,AA,yes
+324,NA,a,NA,весхъа,х,AA,no_sense
+325,NA,a,NA,вессхъа́,sample,AA,no_sense
+326,q,a,хъ,и́шхъа,sample,AA,yes 
+327,q,a,хъ,цІахъа,sample,AA,yes 
+328,unclear,a,NA,бесхъа,sample,AA,no_time
+329,q,a,хъ,и́шхъ-ишхъа,sample,AA,yes 
+330,q,a,хъ,ишхъа,sample,AA,yes 
+331,unclear,a,unclear,бе́ссхъа,sample,AA,yes 
+332,q,a,хъ,цІа́хъа,sample,AA,yes 
+333,q,a,хъ,ишхъа,х,AA,yes 
+334,NA,a,NA,ре́схъа,sample,AA,yes 
+335,unclear,a,unclear,бе́схъа,х,AA,no_time
+336,unclear,a,unclear,хъа́бхъа,х,AA,
+337,q,a,хъ,ишхъа́,х,AA,yes 
+338,q,a,хъ,ишхъа́ ,х,AA,yes 
+339,NA,a,NA,бесхъа́,х,AA,yes 
+340,NA,a,NA,бесхъа́,sample,AA,no_sense
+341,NA,a,NA,бесхъа́,х,AA,no_sense
+342,NA,a,NA,бесхъа́,х,AA,no_time
+343,NA,a,NA,бесхъа́,х,AA,no_time
+344,NA,a,NA,бесхъа́,х,AA,no_time
+345,NA,a,NA,бесхъа́,х,AA,no_time
+346,NA,a,NA,бесхъа́,х,AA,no_time
+347,NA,a,NA,бесхъа́,х,AA,no_time
+348,NA,a,NA,бесхъа́,х,AA,no_time
+349,NA,a,NA,бесхъа́,sample,AA,yes 
+350,q,a,хъ,ишхъа́ ,sample,AA,yes 
+351,q,a,хъ,ишхъа́ ,х,AA,yes 
+352,q,a,хъ,ишхъа́ ,х,AA,yes 
+353,q,a,хъ,ишхъа́ ,х,AA,yes 
+354,unclear,a,unclear,бессхъа́,sample,AA,yes 
+355,q,a,хъ,ишхъа́ ,х,AA,yes 
+356,unclear,a,unclear,бессхъа́,sample,AA,no_time
+357,q,a,хъ,ишхъа́ ,х,AA,yes 
+358,q,a,хъ,ишхъа́ ,sample,AA,yes 
+359,NA,a,NA,весхъа́,х,AA,yes
+360,NA,a,NA,ресхъа́,sample,AA,yes
+361,NA,a,NA,весхъа́,sample,AA,yes
+362,q,a,хъ,ишхъа́ ,sample,AA,yes
+363,unclear,a,хъ,михъа́,sample,AA,yes
+364,q,a,хъ,ишхъа́ ,х,AA,yes
+365,NA,a,NA,бесхъа́,х,AA,no_time
+366,unclear,a,unclear,бессхъа́,х,AA,unclear
+367,NA,a,NA,вессхъа́ ,х,AA,no_sense
+368,NA,a,NA,вессхъа́ ,х,AA,no_sense
+369,NA,a,NA,рессхъа́ ,sample,AA,no_sense
+370,q,a,хъ,ишхъа́ ,х,AA,yes
+371,unclear,a,unclear,ми́къа ,sample,AA,yes
+372,NA,a,NA,гьа́нкъа ,sample,AA,yes
+373,unclear,a,unclear,ми́къа ,sample,AA,yes
+374,unclear,a,unclear,ми́къа ,sample,AA,yes
+375,unclear,a,unclear,ми́къа ,sample,AA,no_metaph
+376,unclear,a,unclear,ми́къа ,х,AA,no
+377,unclear,a,unclear,ми́къа ,х,AA,no_metaph
+378,unclear,a,unclear,ми́къа ,sample,AA,yes
+379,unclear,a,unclear,ми́къа ,х,AA,no_metaph
+380,unclear,a,unclear,ми́къа ,х,AA,no_metaph
+381,unclear,a,unclear,ми́къа ,х,AA,no_metaph
+382,unclear,a,unclear,ми́къа ,sample,AA,unclear
+383,unclear,a,unclear,ро́чIухалуха,sample,AA,no
+384,χ,a,х,и́щиха,х,AA,yes
+385,χ,a,х,гьарчIчIа́ха,sample,AA,yes
+386,χ,a,х,бишти́ха,sample,AA,yes
+387,χ,a,х,цІцІери́ха,sample,AA,no
+388,χ,a,х,цІцІери́ха,х,AA,no
+389,unclear,a,unclear,бессу́ха,sample,AA,no_POSS
+390,χ,a,х,беххила́рха,х,AA,no
+391,χ,a,х,беххила́рха ,х,AA,no
+392,χ,a,х,гьарчІчІа́ха ,sample,AA,yes
+393,χ,a,х,гьарчІчІа́ха ,sample,AA,yes
+394,χ,a,х,гьарчІчІа́ха ,х,AA,yes
+395,χ,a,х,гьеъе́ха,sample,AA,yes
+396,χ,a,х,гьеъе́ха,sample,AA,yes
+397,χ,a,х,тука́маха,sample,AA,yes
+398,unclear,a,unclear,бессу́ха,sample,AA,no_POSS
+399,χ,a,х,гьарчІа́ха,sample,AA,yes
+400,unclear,a,unclear,рессу́ха,sample,AA,yes
+401,χ,a,х,гьеъе́ха,х,AA,yes
+402,χ,a,х,гьеъе́ха,х,AA,yes
+403,χ,a,х,гьеъе́ха,х,AA,yes
+404,χ,a,х,гьарчІчІа́ха ,х,AA,yes
+405,χ,a,х,гьаочIчIа́ха ,sample,AA,unclear
+406,χ,a,х,гьарчІчІа́ха ,х,AA,yes
+407,χ,a,х,нача́лникІиха,sample,AA,no
+408,χ,a,х,бекІу́маха,sample,AA,yes
+409,χ,a,х,гьеэха,х,AA,yes
+410,NA,a,NA,му́ха,х,AA,no_metaph
+411,χ,a,х,ада́муха,sample,AA,no
+412,χ,a,х,гуру́пеха ,sample,AA,no
+413,χ,a,х,гуру́пеха ,х,AA,no
+414,unclear,unclear,unclear,гъа́берха,х,AA,unclear
+415,unclear,unclear,unclear,биле́ха,х,AA,unclear
+416,unclear,a,unclear,гъи́жухамаха,х,AA,
+417,χ,a,х,къватІу́ха,х,AA,no
+418,χ,a,х,къва́тIуха,х,AA,no
+419,χ,a,х,къва́тIуха,х,AA,no
+420,χ,a,х,къва́тIуха,sample,AA,no
+421,χ,a,х,къвайтIуха,sample,AA,no
+422,χ,a,х,гьеэ́ха,х,AA,yes
+423,χ,a,х,гьеэ́ха,х,AA,yes
+424,χ,a,х,гьеъе́ха,х,AA,yes
+425,χ,a,х,кьу́деха,х,AA,yes
+426,χ,a,х,кьу́деха,sample,AA,yes
+427,χ,a,х,гьарчІчІа́ха ,sample,AA,yes
+428,χ,a,х,цІцІери́ха,х,AA,no
+429,χ,a,х,нука́баха,sample,AA,no
+430,unclear,unclear,unclear,эбху́лаха,х,AA,unclear
+431,unclear,unclear,unclear,эбху́лаха,х,AA,unclear
+432,unclear,unclear,unclear,эбху́маха ,х,AA,unclear
+433,χ,a,х,гьарчІчІа́ха ,sample,AA,yes
+434,χ,a,х,ру́шиха,sample,AA,no
+435,χ,a,х,сураби́рха,sample,AA,no
+436,χ,a,х,ма́духалиха ,sample,AA,yes
+437,NA,a,NA,муха ,sample,AA,no
+438,unclear,a,unclear,ххва́нйба́ха,sample,AA,no_metaph
+439,NA,a,NA,муха ,х,AA,no_metaph
+440,χ,a,х,чанта́баха,sample,AA,no_sense
+441,χ,a,х,хьваъаби́рха,sample,AA,no
+442,χ,a,х,цел-це́луха,sample,AA,no_POSS
+443,χ,a,х,цІцІери́ха,х,AA,no
+444,χ,a,х,цІцІери́ха,х,AA,no
+445,χ,a,х,цIцIогьо́рирха,sample,AA,no
+446,χ,a,х,ищиха,sample,AA,yes
+447,χ,a,х,чIиквари́рха ,sample,AA,no
+448,χ,a,х,гощуха́,sample,AA,yes
+449,χ,a,х,гьудулаха́,sample,AA,yes
+450,χ,a,х,тохториха́,sample,AA,yes
+451,NA,a,NA,муха́,sample,AA,no_metaph
+452,NA,a,NA,муха́,х,AA,no_metaph
+453,χ,a,х,ищиха́ ,х,AA,yes
+454,unclear,a,unclear,целалуха́,х,AA,unclear
+455,χ,a,х,макIилуха́,sample,AA,no
+456,χ,a,х,вашащуха́,sample,AA,no_POSS
+457,NA,a,NA,муха́,х,AA,no_metaph
+458,NA,a,NA,муха́,sample,AA,no_metaph
+459,χ,a,х,гъижиха́,sample,AA,yes
+460,χ,a,х,хIайванаха́,sample,AA,no
+461,ɬ,a,лъ,абтекалъа,sample,SA,yes
+462,ɬ,a,лъ,аварилъа,sample,SA,no
+463,ɬ,a,лъ,авлахъалъа,sample,SA,yes
+464,ɬː,a,лълъ,алжаналълъа,sample,SA,yes
+465,unclear,a,unclear,гьулълъа ,х,SA,yes
+466,ɬ,a,лъ,армилъа́ ,х,SA,no_metaph
+467,ɬ,a,лъ,чурпāлъа,х,SA,yes
+468,ɬ,a,лъ,аставкалъа,sample,SA,no
+469,ɬː,a,лълъ,инщубдалълъа,sample,SA,no
+470,ɬ,a,лъ,мигъилъа,х,SA,yes
+471,ɬ,a,лъ,дачалъа,sample,SA,yes
+472,ɬ,a,лъ,бертинлъа,sample,SA,no
+473,ɬ,a,лъ,байлъа,sample,SA,no
+474,ɬː,a,лълъ,бакъабулълъа,sample,SA,yes
+475,ɬː,a,лълъ,бакьилълъа ,sample,SA,yes
+476,ɬː,a,лълъ,вакьилълъа,sample,SA,yes
+477,ɬ,a,лъ,регьалъа,sample,SA,yes
+478,ɬ,a,лъ,гъармассалъа,sample,SA,yes
+479,ɬː,a,лълъ,шагьаралълъа,sample,SA,yes
+480,ɬ,NA,лъ,баранлъи,х,SA,no_time
+481,ɬː,a,лълъ,батагъалълъа,sample,SA,no_metaph
+482,ɬ,a,лъ,рущалъа,sample,SA,yes
+483,ɬ,a,лъ,школалъа,х,SA,no_metaph
+484,ɬ,a,лъ,рухьулъа,х,SA,yes
+485,ɬ,a,лъ,канцерталъа,sample,SA,no
+486,ɬː,a,лълъ,бугъуцIайдалълъа,sample,SA,no
+487,ɬ,a,лъ,жилалъа,sample,SA,yes
+488,ɬ,a,лъ,бертинлъа,х,SA,no
+489,ɬ,a,лъ,бертинлъа,х,SA,no
+490,ɬː,a,лълъ,бешеналълъа,sample,SA,yes
+491,ɬ,a,лъ,щинвлъа,sample,SA,yes
+492,ɬ,a,лъ,школалъа ,х,SA,no_metaph
+493,unclear,a,unclear,гьулълъа ,х,SA,yes
+494,ɬ,a,лъ,рикьилъа,sample,SA,yes
+495,ɬ,a,лъ,сулалъа,sample,SA,no
+496,ɬː,a,лълъ,къешеналълъа,sample,SA,yes
+497,ɬː,a,лълъ,гъармассалълъа,sample,SA,yes
+498,ɬ,a,лъ,школалъа ,sample,SA,no_metaph
+499,ɬ,a,лъ,институтилъа ,х,SA,no_metaph
+500,ɬ,a,лъ,ишалъа,х,SA,yes
+501,ɬ,a,лъ,ишалъа,х,SA,yes
+502,ɬ,a,лъ,мигъилъа,sample,SA,yes
+503,NA,a,NA,ресхъа,х,SA,no_time
+504,ɬː,a,лълъ,гьеналълъа,sample,SA,no_time
+505,ɬ,a,лъ,ссутIилъа,sample,SA,no
+506,ɬ,a,лъ,бертинлъа,sample,SA,no
+507,č,NA,чI,ракIварчIуда,sample,SA,no
+508,ɬː,a,лълъ,гьалълъа,sample,SA,yes
+509,ɬ,a,лъ,буралъилъа,sample,SA,yes
+510,ɬ,a,лъ,ишалъа,х,SA,yes
+511,ɬ,a,лъ,рухьулъа,sample,SA,yes
+512,ɬː,a,лълъ,ишкабалълъа,sample,SA,no_sense
+513,ɬ,a,лъ,вагзалалъа,sample,SA,yes
+514,ɬ,a,лъ,байлъа,sample,SA,yes
+515,ɬ,a,лъ,армилъа,sample,SA,no_metaph
+516,ɬː,a,лълъ,видралълъа,sample,SA,yes
+517,unclear,a,NA,ресхъа,sample,SA,no_time
+518,ɬ,a,лъ,ушколалъа,sample,SA,yes
+519,unclear,a,unclear,галълъа,sample,SA,yes
+520,ɬː,a,лълъ,гардалълъа,sample,SA,yes
+521,ɬ,a,лъ,гвайлъа,sample,SA,no
+522,ɬː,a,лълъ,гвалалълъа,sample,SA,yes
+523,ɬ,a,лъ,гъазаватилъа ,sample,SA,no
+524,ɬ,a,лъ,гъазаватилъа ,х,SA,no
+525,ɬ,a,лъ,маквалъа,sample,SA,yes
+526,ɬː,a,лълъ,гъурмассалълъа,sample,SA,yes
+527,ɬ,a,лъ,рухьулъа,х,SA,yes
+528,unclear,a,unclear,ГЬÁЪАХАЛЪЛЪА,х,SA,
+529,ɬ,a,лъ,гьабалъа,sample,SA,no
+530,ɬ,a,лъ,щинвлъа,sample,SA,yes
+531,ɬː,a,лълъ,гьалълъа ,sample,SA,yes
+532,ɬ,a,лъ,байлъа,sample,SA,yes
+533,ɬ,a,лъ,гьантIукалъа ,sample,SA,no
+534,ɬ,a,лъ,гьарчIчIалъа ,sample,SA,yes
+535,unclear,a,unclear,гьулълъа ,х,SA,no
+536,ɬː,a,лълъ,гьинкIушалълъа,х,SA,yes
+537,unclear,a,unclear,ГЬОГÓЛЪЛЪА,х,SA,
+538,unclear,a,unclear,гьулълъа ,х,SA,yes
+539,unclear,a,unclear,гьулълъа ,sample,SA,yes
+540,ɬ,a,лъ,мединститутилъа,sample,SA,no_metaph
+541,ɬ,a,лъ,даражалъа,х,SA,no
+542,ɬ,a,лъ,дарццилъа,sample,SA,no
+543,ɬ,a,лъ,даскалъа ,sample,SA,yes
+544,ɬː,a,лълъ,долълъа,sample,SA,yes
+545,ɬː,a,лълъ,долълъа,х,SA,yes
+546,ɬː,a,лълъ,беххилълъа,sample,SA,yes
+547,ɬ,a,лъ,дурналъа,sample,SA,no_sense
+548,ɬː,a,лълъ,джандарманалълъа,sample,SA,yes
+549,ɬː,a,лълъ,жагьандаманалълъа,х,SA,yes
+550,ɬː,a,лълъ,жагьандаманалълъа,sample,SA,yes
+551,ɬ,a,лъ,рикьилъа,х,SA,yes
+552,ɬ,a,лъ,анлълъулъа,sample,SA,yes
+553,ɬ,a,лъ,заседанилъа,sample,SA,no
+554,ɬ,a,лъ,зийаратилъа,sample,SA,yes
+555,ɬ,a,лъ,зикрулъа,sample,SA,no
+556,ɬ,a,лъ,институтилъа ,х,SA,no_metaph
+557,ɬ,a,лъ,кинолъа ,sample,SA,no
+558,ɬ,a,лъ,армилъа,х,SA,no_metaph
+559,ɬ,a,лъ,кассалъа,sample,SA,yes
+560,ɬ,a,лъ,химчисткалъа,sample,SA,no_metaph
+561,ɬ,a,лъ,нāлъа,sample,SA,no
+562,ɬ,a,лъ,школалъа,х,SA,no_metaph
+563,ɬ,a,лъ,Масквалъа,sample,SA,yes
+564,ɬ,a,лъ,институтилъа ,х,SA,no_metaph
+565,ɬː,a,лълъ,реагьалълъа,sample,SA,yes
+566,ɬ,a,лъ,рухьулъа,sample,SA,yes
+567,ɬ,a,лъ,инццилъа,sample,SA,yes
+568,ɬ,a,лъ,ишалъа,х,SA,yes
+569,ɬ,a,лъ,искаладалъа,sample,SA,yes
+570,ɬ,a,лъ,истаканлъа,sample,SA,yes
+571,ɬ,a,лъ,ссахIилъа,sample,SA,no
+572,ɬ,a,лъ,йаслилъа,sample,SA,no_metaph
+573,ɬ,a,лъ,кабинеталъа ,sample,SA,yes
+574,ɬ,a,лъ,казеталъа,sample,SA,no_metaph
+575,ɬ,a,лъ,каласалъа,sample,SA,no_metaph
+576,ɬː,a,лълъ,камссалълъа,sample,SA,yes
+577,ɬ,a,лъ,кансиларилъа ,х,SA,no_metaph
+578,ɬ,a,лъ,канцерталъа,sample,SA,no
+579,ɬ,a,лъ,цIцIанйлъа,sample,SA,yes_lex
+580,ɬ,a,лъ,кастумалъа,sample,SA,unclear
+581,ɬ,a,лъ,дарццилъа,х,SA,no
+582,ɬ,a,лъ,кинōлъа,х,SA,no
+583,ɬː,a,лълъ,къварабулълъа,sample,SA,no
+584,ɬː,a,лълъ,къварабулълъа,х,SA,no
+585,ɬ,a,лъ,цIцIанйилъа ,х,SA,yes_lex
+586,ɬː,a,лълъ,къегьеналълъа,sample,SA,yes
+587,ɬ,a,лъ,къирбалъа,sample,SA,yes
+588,ɬ,a,лъ,къирбалъа,х,SA,yes
+589,ɬ,a,лъ,рухьулъа,х,SA,yes
+590,ɬː,a,лълъ,къурулълъа,sample,SA,yes
+591,ɬ,a,лъ,лълъенилъа,sample,SA,yes
+592,ɬ,a,лъ,лагиралъа,sample,SA,no_metaph
+593,ɬː,a,лълъ,гьалълъа,х,SA,yes
+594,ɬ,a,лъ,пенсилъа,х,SA,no
+595,ɬ,a,лъ,мавлидалъа,sample,SA,no
+596,ɬ,a,лъ,армилъа ,х,SA,no_metaph
+597,ɬ,a,лъ,пенсийалъа,sample,SA,no
+598,ɬ,a,лъ,ремонталъа,sample,SA,no
+599,ɬ,a,лъ,унщилъа,sample,SA,yes
+600,ɬ,a,лъ,унщилъа,х,SA,yes
+601,ɬ,a,лъ,йашикалъа ,sample,SA,yes
+602,ɬː,a,лълъ,сумкалълъа,sample,SA,yes
+603,ɬ,a,лъ,матIулъа ,sample,SA,no_sense
+604,ɬː,a,лълъ,машкелълъа,sample,SA,yes
+605,ɬ,a,лъ,мигъилъа,х,SA,yes
+606,ɬ,a,лъ,мигъилъа,х,SA,yes
+607,ɬː,a,лълъ,къегьеналълъа,sample,SA,yes
+608,ɬ,a,лъ,багажникIилъа,sample,SA,yes
+609,ɬ,a,лъ,чемоданилъа ,sample,SA,yes
+610,ɬ,a,лъ,чумада́льа,sample,AA,yes
+611,ɬ,a,лъ,гъарссалъа,sample,SA,no_metaph
+612,ɬ,a,лъ,рухьулъа,х,SA,yes
+613,ɬ,a,лъ,михIмаралъа,sample,SA,yes
+614,NA,a,NA,гьацIадалълъа,sample,SA,no
+615,ɬ,a,лъ,рухьулъа,х,SA,yes
+616,ɬ,a,лъ,йаслилъа,х,SA,no_metaph
+617,ɬ,a,лъ,рухьулъа,х,SA,yes
+618,ɬ,a,лъ,отпускалъа,sample,SA,no
+619,ɬ,a,лъ,очерилъа,sample,SA,yes
+620,ɬː,a,лълъ,бешеналълъа,х,SA,yes
+621,ɬ,a,лъ,ипассихIлъилъа,sample,SA,unclear
+622,ɬ,a,лъ,щинвлъа,х,SA,yes
+623,ɬ,a,лъ,пенсилъа,х,SA,no
+624,ɬ,a,лъ,петералъа ,sample,SA,no
+625,ɬ,a,лъ,пудболалъа,sample,SA,no
+626,ɬ,a,лъ,чурпалъа,sample,SA,yes
+627,ɬ,a,лъ,пучкалъа,sample,SA,yes
+628,ɬ,a,лъ,рагъилъа,sample,SA,yes
+629,ɬ,a,лъ,райцентралъа,sample,SA,yes
+630,ɬ,a,лъ,нāлъа,sample,SA,yes
+631,ɬː,a,лълъ,беххилълъа,х,SA,no_time
+632,ɬː,a,лълъ,регьабакьилълъа,sample,SA,no_time
+633,ɬː,a,лълъ,регьабакьилълъа,х,SA,no_time
+634,ɬː,a,лълъ,регьабакьилълъа,sample,SA,yes
+635,ɬ,a,лъ,армилъа,х,SA,no_metaph
+636,ɬː,a,лълъ,элилълъа,sample,SA,yes
+637,ɬ,a,лъ,школалъа,sample,SA,no_metaph
+638,ɬ,a,лъ,рухьулъа,х,SA,yes
+639,unclear,a,unclear,гьулълъа ,х,SA,yes
+640,ɬ,a,лъ,гIамалалъа,sample,SA,no
+641,ɬ,a,лъ,самаварилъа,sample,SA,yes
+642,ɬ,a,лъ,рухьулъа,х,SA,yes
+643,ɬ,a,лъ,сессийалъа,sample,SA,no
+644,ɬ,a,лъ,суждалъа,sample,SA,yes
+645,ɬ,NA,лъ,суждалъи,х,SA,no
+646,ɬ,NA,лъ,суждалъи,х,SA,no
+647,ɬ,a,лъ,ссабранилъа,sample,SA,no
+648,ɬ,a,лъ,раххулъа,sample,SA,no
+649,ɬ,a,лъ,Масквалъа ,х,SA,yes
+650,ɬ,a,лъ,ссерилъа,х,SA,yes
+651,ɬː,a,лълъ,ссибиралълъа,sample,SA,yes
+652,ɬ,a,лъ,хъвахъулъа,sample,SA,yes
+653,ɬː,a,лълъ,машкелълъа ,х,SA,yes
+654,ɬ,a,лъ,тахшагьаралъа ,sample,SA,yes
+655,ɬ,a,лъ,тахшагьаралъа ,sample,SA,yes
+656,ɬ,a,лъ,театирлъа,х,SA,no
+657,ɬ,a,лъ,лълъенилъа,х,SA,yes
+658,ɬ,a,лъ,турбалъа ,sample,SA,yes
+659,ɬ,a,лъ,турилъа,sample,SA,yes
+660,ɬː,a,лълъ,туснахъалълъа,sample,SA,no_metaph
+661,ɬ,a,лъ,лълъенилъа,х,SA,yes
+662,NA,a,NA,гьада,sample,SA,yes
+663,ɬː,a,лълъ,гьантIукIалълъа,sample,SA,yes
+664,ɬː,a,лълъ,миаралълъа ,sample,SA,yes
+665,ɬ,a,лъ,университетилъа,sample,SA,no_metaph
+666,ɬ,a,лъ,ушколалъа,х,SA,yes
+667,unclear,a,unclear,хеа,sample,SA,yes
+668,unclear,ku,unclear,хеаку,sample,SA,yes
+669,č,NA,чI,гьекIучIу ,sample,SA,no_POSS
+670,unclear,a,unclear,хеа,sample,SA,yes
+671,unclear,a,unclear,гьулълъа ,х,SA,yes
+672,ɬ,a,лъ,заводалъа,sample,SA,no_metaph
+673,ɬː,a,лълъ,хъурщилълъа,sample,SA,no_sense
+674,ɬː,a,лълъ,хьудилълъа,sample,SA,yes
+675,ɬ,a,лъ,городалъа,sample,SA,yes
+676,ɬ,a,лъ,пенсийалъа,х,SA,no
+677,ɬː,a,лълъ,цеблълъа,sample,SA,no
+678,ɬː,a,лълъ,цеблълъа,х,SA,no
+679,ɬː,a,лълъ,цеблълъа,х,SA,no
+680,ɬː,a,лълъ,цеблълъа,х,SA,no
+681,ɬ,a,лъ,цIцIайлъа,sample,SA,yes
+682,ɬ,a,лъ,цIцIанйлъа,х,SA,yes_lex
+683,ɬ,a,лъ,цIцIанйлъа,sample,SA,yes_lex
+684,ɬ,a,лъ,унщилъа,х,SA,yes
+685,ɬ,a,лъ,рухьулъа,х,SA,yes
+686,ɬ,a,лъ,гьалъа,sample,SA,yes
+687,ɬ,NA,лъ,гьалъилъи,sample,SA,no
+688,ɬː,a,лълъ,гьабудалълъа,sample,SA,no
+689,ɬ,a,лъ,рухьулъа,х,SA,yes
+690,ɬː,a,лълъ,элилълъа,х,SA,yes
+691,ɬ,a,лъ,эргалъа ,sample,SA,yes
+692,ɬ,a,лъ,кинолъа ,х,SA,no
+693,ɬː,a,лълъ,бешунудалълъа,sample,SA,no_time
+694,ɬː,a,лълъ,беххилълъа,х,SA,yes_lex
+695,ɬː,a,лълъ,бакъабулълъа,х,SA,yes
+696,ɬ,a,лъ,бертинлъа,х,SA,no
+697,ɬ,a,лъ,бертинлъа,х,SA,no
+698,ɬ,a,лъ,ушколалъа,х,SA,yes
+699,ƛ,a,лI,гьанлIа,sample,SA,yes
+700,ƛ,a,лI,гарлIа,sample,SA,yes
+701,ƛ,a,лI,гарлIа,х,SA,no
+702,ƛ,a,лI,гьанлIа,х,SA,yes
+703,ƛ,a,лI,гьанлIа,sample,SA,yes
+704,ƛ,a,лI,гьанлIа,х,SA,yes
+705,ƛ,a,лI,гьанлIа,х,SA,yes
+706,ɬ,NA,лъ,къенулъи,sample,SA,no_time
+707,ƛ,a,лI,гьанлIа,х,SA,yes
+708,ƛ,a,лI,гьанлIа,х,SA,yes
+709,ƛ,a,лI,гьанлIа,х,SA,yes
+710,ƛ,a,лI,гьанлIа,х,SA,yes
+711,ƛ,a,лI,гьанлIа,х,SA,yes
+712,ƛ,a,лI,гьанлIа,х,SA,yes
+713,NA,a,NA,базара,sample,SA,yes
+714,ƛ,NA,лI,гьанлIи ,х,SA,yes
+715,ƛ,NA,лI,гьанлIи ,sample,SA,yes
+716,ƛ,NA,лI,гьанлIи ,х,SA,yes
+717,ƛ,NA,лI,гьанлIи ,х,SA,yes
+718,ƛ,NA,лI,гьанлIи ,х,SA,yes
+719,ƛ,NA,лI,гьанлIи ,х,SA,yes
+720,ƛ,NA,лI,гьанлIи ,х,SA,yes
+721,ƛ,NA,лI,гьанлIи ,х,SA,yes
+722,ƛ,NA,лI,гьанлIи ,х,SA,yes
+723,ƛ,NA,лI,гарлIи,sample,SA,yes
+724,χ,NA,х,гьанкIвахи,sample,SA,yes
+725,e,NA,е,каре,sample,SA,yes
+726,χ,NA,х,гьантIукIабахи,sample,SA,yes
+727,ɬ,NA,лъ,гьанкIвалъи,sample,SA,yes
+728,ɬ,NA,лъ,бежуналъи,sample,SA,yes
+729,ɬ,NA,лъ,къиндалъи,sample,SA,yes
+730,ƛ,NA,лI,гьанлIи ,х,SA,yes
+731,ƛ,NA,лI,гьанлIи ,х,SA,yes
+732,ƛ,NA,лI,гьанлIи ,sample,SA,yes
+733,ƛ,NA,лI,гьанлIи ,х,SA,yes
+734,ƛʼ,a,кь,гьикьа,х,SA,yes
+735,ƛ,NA,лI,гьанлIи ,х,SA,yes
+736,ƛ,NA,лI,гьанлIи ,х,SA,yes
+737,ƛ,NA,лI,гьанлIи ,х,SA,yes
+738,NA,a,NA,иша ,sample,SA,yes
+739,ƛ,NA,лI,гьанлIи ,х,SA,yes
+740,ɬ,NA,лъ,ццибурулъи,sample,SA,no_time
+741,ɬ,NA,лъ,къенулъи,sample,SA,no_time
+742,NA,NA,NA,къену ,sample,SA,no_time
+743,ƛ,NA,лI,гьанлIи ,х,SA,yes
+744,ƛ,NA,лI,гьанлIи ,х,SA,yes
+745,ƛ,NA,лI,гьанлIи ,х,SA,yes
+746,ƛ,NA,лI,гарлIи,х,SA,yes
+747,č,NA,чI,ила-имучIу,sample,SA,no_POSS
+748,č,NA,чI,пургоначIу,sample,SA,yes
+749,č,NA,чI,бартичIу,sample,SA,yes
+750,č,NA,чI,вагуначIу,sample,SA,yes 
+751,č,NA,чI,гамачIу,sample,SA,yes
+752,ɬ,NA,лъ,гьерцIалъи,sample,SA,yes
+753,ƛ,NA,лI,гьанлIи ,х,SA,yes
+754,ƛ,NA,лI,гьанлIи ,х,SA,yes
+755,ƛ,NA,лI,гьанлIи ,х,SA,yes
+756,ƛ,NA,лI,гьанлIи ,х,SA,yes
+757,ƛ,NA,лI,гьанлIи ,х,SA,yes
+758,ɬː,NA,лълъ,чанталълъу,sample,SA,yes
+759,ɬː,NA,лълъ,ишкапалълъу,sample,SA,yes
+760,ɬː,NA,лълъ,азбаралълъу,sample,SA,yes
+761,ɬː,NA,лълъ,азбаралълъу,х,SA,yes
+762,ɬː,NA,лълъ,азбаралълъу,х,SA,yes
+763,ɬː,NA,лълъ,азбаралълъу,х,SA,yes
+764,ɬː,NA,лълъ,баганалълъу,sample,SA,yes
+765,ɬː,NA,лълъ,бешеналълъу,sample,SA,yes
+766,ɬː,NA,лълъ,бешеналълъу,х,SA,yes
+767,ɬː,NA,лълъ,бешеналълъу,х,SA,yes
+768,ɬː,NA,лълъ,инщубдалълъу,х,SA,no
+769,ɬː,NA,лълъ,бикьидалълъу,sample,SA,no_time
+770,ɬː,NA,лълъ,машкēлълъу,х,SA,no_metaph
+771,ɬː,NA,лълъ,букIа-букIабулълъу,sample,SA,yes
+772,ɬː,NA,лълъ,букIабулълъу,х,SA,yes
+773,ɬː,NA,лълъ,букIабулълъу,х,SA,yes
+774,ɬː,NA,лълъ,кинилълъу,sample,SA,yes
+775,ɬː,NA,лълъ,кинилълъу,sample,SA,yes
+776,ɬ,NA,лъ,хьудилъу,sample,SA,yes
+777,ɬː,NA,лълъ,хьудилълъу ,sample,SA,yes
+778,ɬː,NA,лълъ,машкēлълъу,х,SA,yes
+779,ɬː,NA,лълъ,бешеналълъу,х,SA,yes
+780,ɬː,NA,лълъ,гъадалълъу,sample,SA,yes
+781,ɬː,NA,лълъ,гъамакьуххурлълъу,sample,SA,yes
+782,ɬː,NA,лълъ,гъамилълъу,sample,SA,yes
+783,ɬː,NA,лълъ,регьалълъу,sample,SA,yes
+784,ɬː,NA,лълъ,гъармассалълъу,sample,SA,yes
+785,ɬː,NA,лълъ,нāлълъу,sample,SA,yes
+786,ɬː,NA,лълъ,гъуртухъалълъу,sample,SA,yes
+787,ɬː,NA,лълъ,гъуртухъалълъу,х,SA,yes
+788,ɬː,NA,лълъ,гъуртухъалълъу,х,SA,yes
+789,ɬː,NA,лълъ,гьагъихабулълъу,sample,SA,yes
+790,ɬː,NA,лълъ,гьагъихабулълъу ,х,SA,yes
+791,ɬː,NA,лълъ,гьагъиххаблълъу ,sample,SA,yes
+792,ƛʼ,NA,кь,гьардукьи,sample,SA,yes
+793,ɬː,NA,лълъ,гьерцIалълъу,sample,SA,yes
+794,ɬː,NA,лълъ,инлIидалълъу,sample,SA,no_time
+795,ɬː,NA,лълъ,джаргъ[лълъу,sample,SA,yes
+796,ɬː,NA,лълъ,жагьандаманалълъу,х,SA,yes
+797,ɬː,NA,лълъ,интаралълъу,sample,SA,yes
+798,ɬː,NA,лълъ,интаралълъу,х,SA,yes
+799,ɬː,NA,лълъ,исибалълъу,sample,SA,yes
+800,ɬː,NA,лълъ,макIиллълъи,sample,SA,no
+801,ɬː,NA,лълъ,исибалълъу,х,SA,yes
+802,ɬː,NA,лълъ,квадабацIихабулълъу,sample,SA,yes
+803,ɬː,NA,лълъ,къегьеналълъу,sample,SA,yes
+804,ɬː,NA,лълъ,къурулълъу,sample,SA,yes
+805,ɬː,NA,лълъ,бешеналълъу,х,SA,yes
+806,ɬ,NA,лъ,гьумалъи ,sample,SA,yes
+807,ɬː,NA,лълъ,хIарциналълъу ,sample,SA,yes
+808,ɬː,NA,лълъ,машкелълъу,sample,SA,yes
+809,ɬː,NA,лълъ,винсихабулълъу,sample,SA,yes
+810,ɬː,NA,лълъ,регьалълъу,х,SA,yes
+811,ɬː,NA,лълъ,парссалълъу,sample,SA,yes
+812,ɬː,NA,лълъ,парссалълъу,sample,SA,yes
+813,ɬː,NA,лълъ,пастIаналълъу,sample,SA,yes
+814,ɬː,NA,лълъ,регьалълъу,х,SA,yes
+815,ɬː,NA,лълъ,регьалълъу,х,SA,yes
+816,ɬː,NA,лълъ,падвалалълъу,sample,SA,yes
+817,ɬː,NA,лълъ,рекулълъу,sample,SA,yes
+818,ɬː,NA,лълъ,рекулълъу,х,SA,yes
+819,ɬː,NA,лълъ,речIчIалълъу,sample,SA,yes
+820,ɬː,NA,лълъ,речIчIалълъу,х,SA,yes
+821,ɬː,NA,лълъ,речIчIалълъу,х,SA,yes
+822,ɬː,NA,лълъ,масатахоблълъу,sample,SA,no
+823,χ,NA,х,масатахоблълъихи,sample,SA,no
+824,χ,NA,х,игьатахоблълъихила,sample,SA,no
+825,ɬː,NA,лълъ,хъурущилълъу,sample,SA,yes
+826,ɬː,NA,лълъ,ссандукIалълъу,sample,SA,yes
+827,ɬː,NA,лълъ,хIарцциналълъу,sample,SA,yes
+828,ɬː,NA,лълъ,машкелълъу,х,SA,yes
+829,ɬː,NA,лълъ,цIантIуралълъу,sample,SA,yes
+830,ɬː,NA,лълъ,чанталълъу,х,SA,yes
+831,ɬː,NA,лълъ,чIчIарталълъу,sample,SA,yes
+832,ɬː,NA,лълъ,чанталълъу,х,SA,yes
+833,č,NA,чI,гьущучIу,sample,SA,no_POSS
+834,ɬː,NA,лълъ,Гъа́далълъу ,sample,SA,yes_lex
+835,ɬː,NA,лълъ,Ка́мсалълъу,sample,SA,yes_lex
+836,ɬː,NA,лълъ,Па́рссалълъу,sample,SA,yes_lex
+837,ɬː,NA,лълъ,муцIцIēлълъу,sample,SA,yes_lex
+838,ɬ,NA,лъ,гъармассалъу,sample,SA,yes
+839,e,ru,е,ахаре́ру,sample,AA,no_time
+840,e,ru,е,ахаре́ру,sample,AA,no_time
+841,NA,ru,NA,бехъутІу́ру-бехъу́тІу,sample,AA,yes
+842,NA,ru,NA,бехъутІу́ру-бехъу́тІу,sample,AA,yes
+843,unclear,ru,unclear,бесхъе́руссубла,sample,AA,no_time
+844,NA,ru,NA,бехъутIу́ру ,sample,AA,yes
+845,NA,ru,NA,бехъутIу́ру бехъутIу,sample,AA,yes
+846,NA,ru,NA,бехъутIу́ру-бехъутIу ,sample,AA,yes
+847,NA,a,NA,бесхъа,х,SA,no_time
+848,ɬː,ru,лълъ,ванхалълъару,х,SA,no_time
+849,ɬː,ru,лълъ,ванхалълъару,х,SA,no_time
+850,NA,a,NA,весхъа,х,SA,no_time
+851,ɬː,ru,лълъ,ванхалълъеру,х,SA,no_time
+852,e,ru,е,гьакье́ру-гьа́кьа,х,AA,no_time
+853,e,ru,е,гьакье́ру-гьа́кьа,sample,AA,no_time
+854,e,ru,е,гьакье́ру-гьа́кьа,х,AA,no_time
+855,e,ru,е,гьакье́ру-гьакье́ссуб ,х,AA,no_time
+856,NA,a,NA,бесхъа,х,SA,no_time
+857,ɬː,ru,лълъ,гьеналълъеру,х,SA,no_time
+858,ɬː,ru,лълъ,гьеналълъеру,х,SA,no_time
+859,unclear,ru,unclear,гье́ру,х,AA,no
+860,unclear,ru,unclear,гье́ру,sample,AA,no
+861,unclear,ru,unclear,гье́ру,х,AA,no
+862,unclear,ru,unclear,гье́ру,х,AA,no
+863,unclear,ru,unclear,гье́ру,х,AA,no
+864,unclear,ru,unclear,гье́ру,х,AA,no
+865,unclear,ru,unclear,гье́ру,х,AA,no
+866,unclear,ru,unclear,гье́ру,х,AA,no
+867,unclear,ru,unclear,гье́ру,х,AA,no
+868,NA,ru,NA,гьинуру,х,SA,yes
+869,NA,ru,NA,гьинуру,х,SA,yes
+870,NA,ru,NA,гьи́нуру гьи́на ,х,AA,yes
+871,unclear,ru,unclear,гьулълъару,х,SA,no_time
+872,e,ru,е,зама-замане́ру,sample,AA,no_time
+873,e,ru,е,за́ма-заманеру,х,AA,no_time
+874,e,ru,е,зиверу-зива,sample,SA,no_time
+875,e,ru,е,зиверу-зива,х,SA,no_time
+876,ƛ,ru,лI,зу́кIкIукIа́влIарубесхъа,х,AA,no_time
+877,ɬː,ru,лълъ,индалълъерубесхъалъила,х,SA,no_time
+878,ɬː,ru,лълъ,индалълъерубесхъаххула,х,SA,no_time
+879,unclear,ru,unclear,кьватІе́ру,х,AA,unclear
+880,unclear,ru,unclear,кьватІе́рулъи,х,AA,unclear
+881,unclear,ru,unclear,кIанцIе́ру,х,AA,no
+882,e,ru,е,минуте́ру-минута́ ,sample,AA,no_time
+883,e,ru,е,минуте́ру-минута́ ,sample,AA,no_time
+884,e,ru,е,минуте́ру-минута́ссуб,х,AA,no_time
+885,e,ru,е,мусе́ру муса́,sample,AA,yes
+886,e,ru,е,пу́рцIцIеру-пу́рцIцIе,sample,AA,no_time
+887,e,ru,е,пу́рцIцIеру-пу́рцIцIе,х,AA,no_time
+888,unclear,ru,unclear,рехутІу́ру реху́тІу ,sample,AA,yes
+889,e,ru,е,реше́ру-реша,sample,AA,no_time
+890,e,ru,е,реше́ру-реша́ссуб ,х,AA,no_time
+891,e,ru,е,ссагIате́ру ссагIата́,sample,AA,no_time
+892,unclear,ru,unclear,ссеаруссе,sample,SA,yes
+893,unclear,ru,unclear,ссе́ру,sample,AA,yes
+894,unclear,ru,unclear,ссе́ру,sample,AA,yes
+895,unclear,ru,unclear,ссе́ру,х,AA,yes
+896,unclear,ru,unclear,ссе́ру-ссе,х,AA,yes
+897,unclear,ru,unclear,ссе́ру-ссе,sample,AA,yes
+898,unclear,ru,unclear,ссе́ру-ссе ,х,AA,yes
+899,unclear,ru,unclear,ссе́ру-ссе ,sample,AA,yes
+900,ɬ,ku,лъ,абтаматилъику,sample,SA,yes
+901,ɬ,ku,лъ,абтекалъику,sample,SA,yes
+902,č,ku,чI,адамалучӀуку,sample,SA,no
+903,č,ku,чI,адамалучӀуку,sample,SA,no
+904,u,ku,у,амбуруку,sample,SA,no_sense
+905,u,ku,у,амбуруку,sample,SA,yes
+906,ƛʼ,a,кь,гьикьа,sample,SA,yes
+907,ɬ,ku,лъ,анзилалъику,sample,SA,yes
+908,ɬ,ku,лъ,анлълъалъику,sample,SA,yes
+909,č,ku,чI,анччучӀуку,sample,SA,no
+910,ɬ,ku,лъ,армилъику,sample,SA,no_metaph
+911,ɬ,ku,лъ,армилъику,sample,SA,no_metaph
+912,ɬ,ku,лъ,армилъику,х,SA,no_metaph
+913,NA,ku,NA,аруку,sample,SA,yes
+914,NA,ku,NA,аруку,sample,SA,yes
+915,NA,ku,NA,аруку,х,SA,yes
+916,NA,ku,NA,аруку,sample,SA,yes
+917,NA,ku,NA,аруку,sample,SA,yes
+918,e,ku,е,базареку,sample,SA,yes
+919,ɬ,ku,лъ,байлъику,sample,SA,yes
+920,ɬ,ku,лъ,байлъику,sample,SA,no
+921,ɬ,ku,лъ,байлъику,х,SA,yes
+922,ɬː,ku,лълъ,бакъабулълъуку,sample,SA,yes
+923,ɬː,ku,лълъ,бакьилълъаку,sample,SA,yes
+924,ɬː,ku,лълъ,бакьилълъаку,х,SA,yes
+925,ɬː,ku,лълъ,бакьилълъаку,х,SA,yes
+926,ɬː,ku,лълъ,бакьилълъаку,х,SA,yes
+927,ɬː,ku,лълъ,бакьилълъаку,х,SA,yes
+928,ɬː,ku,лълъ,бакьилълъаку,х,SA,yes
+929,ɬː,ku,лълъ,бакьилълъаку,х,SA,yes
+930,č,ku,чI,балагьабалъичӀуку,sample,SA,no
+931,č,ku,чI,балагьабалъичӀуку,sample,SA,no
+932,č,ku,чI,балагьачӀуку,х,SA,no
+933,č,ku,чI,балагьачӀуку,х,SA,no
+934,ɬ,ku,лъ,балницалъику,sample,SA,yes
+935,ɬ,ku,лъ,банкалъику,sample,SA,no_metaph
+936,č,ku,чI,бацӀёчӀуку,sample,SA,no
+937,č,ku,чI,бацӀучуку,sample,SA,no
+938,e,ku,е,беелеку,sample,SA,yes
+939,χ,ku,х,бекьарахику,sample,SA,yes
+940,ɬː,ku,лълъ,беххилълъаку,sample,SA,yes
+941,ɬː,ku,лълъ,бешеналълъуку,sample,SA,yes
+942,ɬː,ku,лълъ,бешеналълъуку,х,SA,yes
+943,ɬː,ku,лълъ,бешеналълъуку,х,SA,yes
+944,ɬː,ku,лълъ,бешеналълъуку,х,SA,yes
+945,č,ku,чI,биштичӀуку,sample,SA,no
+946,č,ku,чI,биштичӀуку,sample,SA,no
+947,χ,a,х,харащурдаха,sample,SA,yes
+948,č,ku,чI,боццирчӀуку,sample,SA,no
+949,č,ku,чI,боццурчӀуку,sample,SA,no
+950,ɬː,ku,лълъ,вакьилълъаку,sample,SA,yes
+951,χ,ku,х,вашащухеку,sample,SA,no_POSS
+952,č,ku,чI,вашащучӀуку,sample,SA,no
+953,ɬ,ku,лъ,видралъику,sample,SA,yes
+954,ɬ,ku,лъ,видралъику,х,SA,yes
+955,č,ku,чI,виъирчӀуку,sample,SA,no
+956,č,ku,чI,виъирчӀуку,х,SA,no
+957,ɬː,ku,лълъ,галълъаку,sample,SA,yes
+958,ɬː,ku,лълъ,галълъаку,х,SA,yes
+959,ɬː,ku,лълъ,галълъаку,х,SA,yes
+960,ɬ,ku,лъ,гвалалъику,sample,SA,yes
+961,ɬ,ku,лъ,гвангвалъику,sample,SA,yes
+962,ɬ,ku,лъ,гизулъику,sample,SA,yes
+963,č,ku,чI,голъичӀуку,sample,SA,no_POSS
+964,ɬː,ku,лълъ,голълъаку,sample,SA,yes
+965,ɬː,ku,лълъ,голълъаку,sample,SA,yes
+966,ɬ,ku,лъ,Горознилъику,sample,SA,yes
+967,χ,ku,х,гощухеку,sample,SA,no_POSS
+968,č,ku,чI,гощучӀуку,х,SA,no
+969,č,ku,чI,гощучӀуку,sample,SA,no
+970,ɬ,ku,лъ,гудуралъику,sample,SA,yes
+971,χ,ku,х,гулатирхеку,sample,SA,no
+972,ɬː,ku,лълъ,гъадалълъуку,sample,SA,yes
+973,ɬ,ku,лъ,гъваналъику,sample,SA,no
+974,NA,ku,NA,гъванику,sample,SA,yes
+975,χ,ku,х,гъижихику,sample,SA,no_sense
+976,χ,ku,х,гъижихику,sample,SA,yes
+977,e,ku,е,гъижугъванеку,sample,SA,yes
+978,č,ku,чI,гъулълъичӀуку,sample,SA,no
+979,ɬ,ku,лъ,гъуртухъалъику,sample,SA,yes
+980,ɬː,ku,лълъ,гъуртухъалълъуку,sample,SA,yes
+981,č,ku,чI,гъурушачӀуку,sample,SA,no
+982,NA,ku,NA,гьадику,sample,SA,yes
+983,NA,ku,NA,гьадику,х,SA,yes
+984,ɬ,ku,лъ,гьайлъику,sample,SA,no_sense
+985,č,ku,чI,гьакьичӀукула,sample,SA,no
+986,č,ku,чI,гьалмагъзабалъичӀуку,sample,SA,no
+987,ɬː,ku,лълъ,гьалълъаку,sample,SA,yes
+988,ɬː,ku,лълъ,гьалълъаку,sample,SA,yes
+989,ɬː,ku,лълъ,гьалълъаку,х,SA,yes
+990,ɬː,ku,лълъ,гьалълъаку,х,SA,yes
+991,č,ku,чI,гьаничӀуку,sample,SA,no
+992,č,ku,чI,гьаничӀуку,х,SA,no
+993,č,ku,чI,гьаничӀуку,х,SA,no
+994,e,ku,е,гьанкъеку,sample,SA,yes
+995,ƛ,ku,лI,гьанлӀику,sample,SA,yes
+996,ɬː,ku,лълъ,гьачӀчӀахи вукӀа булълъуку,х,SA,yes
+997,unclear,ku,unclear,гьеаку,sample,SA,no
+998,unclear,ku,unclear,гьеаку,х,SA,no
+999,unclear,ku,unclear,гьеаку,sample,SA,yes
+1000,unclear,ku,unclear,гьеаку,sample,SA,yes
+1001,unclear,ku,unclear,гьеаку,sample,SA,no
+1002,unclear,ku,unclear,гьеаку,sample,SA,no
+1003,unclear,ku,unclear,гьеаку гьикьа,sample,SA,yes
+1004,ƛʼ,a,кь,гьикьа (гьеаку гьикьа),sample,SA,yes
+1005,unclear,ku,unclear,гьеаку,sample,SA,yes
+1006,ƛʼ,a,кь,гьикьа (гьеаку гьикьа),х,SA,yes
+1007,unclear,ku,unclear,гьеаку,х,SA,no
+1008,unclear,ku,unclear,гьеаку,sample,SA,yes
+1009,unclear,ku,unclear,гьеаку,sample,SA,no
+1010,ɬ,ku,лъ,гьецӀибущулъику,sample,SA,yes
+1011,χ,ku,х,гьеэхику,sample,SA,yes
+1012,ƛʼ,a,кь,гьикьа,sample,SA,yes
+1013,χ,ku,х,гьеэхику,sample,SA,no_sense
+1014,ƛʼ,ku,кь,гьикьику,sample,SA,yes
+1015,ƛʼ,ku,кь,гьикьику,х,SA,yes
+1016,ƛʼ,ku,кь,гьикьику,sample,SA,yes
+1017,ƛʼ,ku,кь,гьикьику,х,SA,yes
+1018,ƛʼ,ku,кь,гьикьику,sample,SA,no_sense
+1019,ƛʼ,ku,кь,гьикьику,х,SA,yes
+1020,ƛʼ,ku,кь,гьикьику,sample,SA,yes
+1021,ƛʼ,ku,кь,гьикьику-гьеа,х,SA,yes
+1022,ƛʼ,ku,кь,гьикьику-гьеа,sample,SA,no_sense
+1023,č,ku,чI,гьингьирчӀуку,sample,SA,no
+1024,ɬː,ku,лълъ,гьинкӀушалълъуку,sample,SA,yes
+1025,NA,ku,NA,гьинуку,sample,SA,yes
+1026,NA,ku,NA,гьинуку,х,SA,yes
+1027,NA,ku,NA,гьинуку,sample,SA,yes
+1028,NA,ku,NA,гьинуку,х,SA,unclear
+1029,NA,ku,NA,гьинуку,sample,SA,yes
+1030,NA,ku,NA,гьинуку,sample,SA,yes
+1031,χ,ku,х,гьинцӀцӀухику,sample,SA,yes
+1032,č,ku,чI,гьиргъирчӀуку,sample,SA,no
+1033,e,ku,е,гьирцӀиреку,sample,SA,yes
+1034,č,ku,чI,гьудулзабалъичӀуку,sample,SA,yes
+1035,ɬ,ku,лъ,гьулъаку,sample,SA,no
+1036,unclear,ku,unclear,гьулълъаку,х,SA,yes
+1037,unclear,ku,unclear,гьулълъаку,sample,SA,yes
+1038,unclear,ku,unclear,гьулълъаку,х,SA,yes
+1039,unclear,ku,unclear,гьулълъаку,х,SA,yes
+1040,unclear,ku,unclear,гьулълъаку,х,SA,yes
+1041,unclear,ku,unclear,гьулълъаку,х,SA,yes
+1042,unclear,ku,unclear,гьулълъаку,х,SA,yes
+1043,unclear,ku,unclear,гьулълъаку,sample,SA,no
+1044,č,ku,чI,гьулълъичӀуку,sample,SA,no
+1045,č,ku,чI,гьущучӀуку,sample,SA,no
+1046,č,ku,чI,гьущучӀуку,sample,SA,no
+1047,č,ku,чI,гьущучӀуку,sample,SA,no
+1048,č,ku,чI,гьущучӀуку,sample,SA,unclear
+1049,č,ku,чI,гӀагарлъичӀуку,sample,SA,yes
+1050,ɬ,ku,лъ,гӀарадалъику,sample,SA,yes
+1051,unclear,ku,unclear,гӀурхъеку,sample,SA,yes
+1052,č,ku,чI,дандийавщучӀуку,sample,SA,no
+1053,ɬ,ku,лъ,дарцилъику,sample,SA,no
+1054,ɬː,ku,лълъ,джаргъуулълъуку,sample,SA,yes
+1055,č,ku,чI,дичIуку,х,SA,no
+1056,č,ku,чI,дичуку,sample,SA,no
+1057,č,ku,чI,дичӀуку,sample,SA,no
+1058,č,ku,чI,дичӀуку,х,SA,no
+1059,č,ku,чI,дичӀуку,х,SA,no
+1060,č,ku,чI,дичӀуку,sample,SA,no
+1061,č,ku,чI,дичӀуку,sample,SA,no
+1062,č,ku,чI,дичӀуку,sample,SA,no_POSS
+1063,č,ku,чI,дичӀуку,sample,SA,yes
+1064,č,ku,чI,дичӀуку,sample,SA,no
+1065,č,ku,чI,дичӀуку,sample,SA,yes
+1066,ɬː,ku,лълъ,долълъаку,sample,SA,yes
+1067,č,ku,чI,дунелчӀуку,sample,SA,no
+1068,χ,ku,х,духеку,х,SA,no_POSS
+1069,č,ku,чI,дучӀуку,х,SA,no
+1070,č,ku,чI,дучӀуку,х,SA,no
+1071,č,ku,чI,дучӀуку,х,SA,no
+1072,č,ku,чI,дучӀуку,х,SA,no
+1073,č,ku,чI,дучӀуку,х,SA,no
+1074,č,ku,чI,дучӀуку,sample,SA,yes__sense
+1075,č,ku,чI,дучӀуку,sample,SA,no
+1076,č,ku,чI,дучӀуку,sample,SA,no
+1077,ɬ,ku,лъ,жилалъику,sample,SA,yes
+1078,ɬ,ku,лъ,заралалъику,sample,SA,yes
+1079,ɬː,ku,лълъ,игьуралълъуку,sample,SA,yes
+1080,č,ku,чI,илучӀуку,sample,SA,no
+1081,č,ku,чI,илӀичӀуку,sample,SA,no
+1082,ɬː,ku,лълъ,интаралълъику,sample,SA,yes
+1083,NA,ku,NA,инуку,х,SA,yes
+1084,ɬ,ku,лъ,инххилъику,sample,SA,yes
+1085,č,ku,чI,ирсичӀуку,sample,SA,no
+1086,č,ku,чI,ирсичӀуку,х,SA,no
+1087,č,ku,чI,ирсичӀуку,х,SA,no
+1088,ɬ,ku,лъ,истаканалъику,sample,SA,yes
+1089,ɬ,ku,лъ,истаканалъику,х,SA,yes
+1090,unclear,ku,unclear,ишику,х,SA,yes
+1091,unclear,ku,unclear,ишику,sample,SA,yes
+1092,unclear,ku,unclear,ишику,х,SA,no_sense
+1093,unclear,ku,unclear,ишику,х,SA,no_sense
+1094,q,ku,хъ,ишхъеку,sample,SA,yes
+1095,χ,ku,х,ищихеку,sample,SA,yes
+1096,č,ku,чI,ищичӀуку,sample,SA,yes
+1097,č,ku,чI,ищичӀуку,sample,SA,yes
+1098,č,ku,чI,ищичӀуку,sample,SA,no_POSS
+1099,ɬ,ku,лъ,кавулъику,sample,SA,yes
+1100,č,ku,чI,какачIуку,sample,SA,yes
+1101,ɬ,ku,лъ,каналалъику,sample,SA,yes
+1102,ɬ,ku,лъ,кассалъику,sample,SA,yes
+1103,ɬ,ku,лъ,кассалъику,х,SA,yes
+1104,unclear,ku,unclear,квадуку,sample,SA,yes
+1105,unclear,ku,unclear,квадуку,х,SA,yes
+1106,unclear,ku,unclear,квадуку,х,SA,yes
+1107,e,ku,е,кванареку,sample,SA,yes
+1108,č,ku,чI,кунтӀучӀуку,sample,SA,no
+1109,ɬ,ku,лъ,курушкалъику,sample,SA,yes
+1110,χ,ku,х,къарумихеку,sample,SA,no_POSS
+1111,ɬ,ku,лъ,къванчилъику,sample,SA,yes
+1112,ɬː,ku,лълъ,къегьеналълъуку,sample,SA,yes
+1113,ɬː,ku,лълъ,къегьеналълъуку,х,SA,yes
+1114,χ,ku,х,къиндахику,sample,SA,yes
+1115,ƛʼ,a,кь,гьикьа,sample,SA,yes
+1116,e,ku,е,кьиреку,sample,SA,yes
+1117,ɬ,ku,лъ,кӀамулъику,sample,SA,yes
+1118,č,ku,чI,кӀатучӀуку,sample,SA,yes
+1119,č,ku,чI,кӀвахӀалирчӀуку,sample,SA,no
+1120,č,ku,чI,кӀвахӀалирчӀукула,sample,SA,no
+1121,ɬ,ku,лъ,кӀичӀилъику,sample,SA,yes
+1122,ɬ,ku,лъ,лагилъику,sample,SA,yes
+1123,NA,ku,NA,лъайеку,sample,SA,no_metaph
+1124,ɬ,ku,лъ,магърибалъику,sample,SA,yes
+1125,č,ku,чI,маквасирчӀуку,sample,SA,no
+1126,č,ku,чI,маквачӀуку,sample,SA,no
+1127,č,ku,чI,макӀилучӀуку,sample,SA,no
+1128,ɬ,ku,лъ,маркцулъику,sample,SA,yes
+1129,ɬ,ku,лъ,марщулъику,sample,SA,yes
+1130,ɬː,ku,лълъ,машкёлълъуку,sample,SA,yes
+1131,ɬː,ku,лълъ,миаралълъуку,sample,SA,yes
+1132,ɬː,ku,лълъ,миаралълъуку,х,SA,unclear
+1133,χ,ku,х,миаргъванаххику,sample,SA,yes
+1134,χ,ku,х,миаргъванаххику,sample,SA,yes
+1135,χ,ku,х,миардахику,х,SA,yes
+1136,χ,ku,х,миардахику,sample,SA,yes
+1137,unclear,ku,unclear,микъаку,sample,SA,yes
+1138,ƛʼ,ku,кь,микъаракьику,sample,SA,yes
+1139,ƛʼ,ku,кь,микъаракьику,х,SA,yes
+1140,ƛʼ,ku,кь,микъаракьику,х,SA,yes
+1141,ƛʼ,ku,кь,микъаракьику,sample,SA,yes
+1142,ƛʼ,ku,кь,микъаракьику,х,SA,yes
+1143,ƛʼ,ku,кь,микъаракьику,sample,SA,yes
+1144,e,ku,е,микъеку,sample,SA,yes
+1145,e,ku,е,микъеку,sample,SA,no
+1146,č,ku,чI,мунагьабалъичӀуку,sample,SA,no
+1147,e,NA,е,мусе,sample,SA,yes
+1148,e,ku,е,мусе-мусеку,х,SA,yes
+1149,e,ku,е,мусе-мусеку,х,SA,yes
+1150,e,ku,е,мусе-мусеку,х,SA,yes
+1151,e,ku,е,мусеку,sample,SA,yes
+1152,e,ku,е,мухеку,sample,SA,no_metaph
+1153,e,ku,е,мухеку,х,SA,no_metaph
+1154,e,ku,е,мухеку,х,SA,no_metaph
+1155,e,ku,е,мухеку,х,SA,no_metaph
+1156,e,ku,е,мухеку,х,SA,no_metaph
+1157,e,ku,е,мухеку,х,SA,no_metaph
+1158,č,ku,чI,мухучӀуку,х,SA,no_POSS
+1159,č,ku,чI,мухучӀуку,sample,SA,no
+1160,č,ku,чI,мучулачӀуку,sample,SA,no
+1161,č,ku,чI,налъичӀуку,sample,SA,no
+1162,č,ku,чI,падаркачӀуку,sample,SA,no
+1163,ɬ,ku,лъ,пеленалъику,sample,SA,yes
+1164,č,ku,чI,проектичӀуку,sample,SA,no
+1165,ɬ,ku,лъ,пучкалъику,sample,SA,yes
+1166,ɬ,ku,лъ,пучкалъику,sample,SA,yes
+1167,ɬ,ku,лъ,рагъалалъуку,sample,SA,yes
+1168,ɬ,ku,лъ,рагъилъику,sample,SA,yes
+1169,χ,ku,х,ракӀва-ракӀвархику,sample,SA,no
+1170,č,ku,чI,ракӀварчӀуку,sample,SA,unclear
+1171,č,ku,чI,раххучӀуку,sample,SA,no
+1172,NA,ku,NA,рахъидику,sample,SA,yes
+1173,NA,ku,NA,рахъидику,sample,SA,no
+1174,NA,ku,NA,рахъидику,х,SA,yes
+1175,NA,ku,NA,рахъидику,sample,SA,yes
+1176,NA,ku,NA,рахъидику,х,SA,yes
+1177,ɬː,ku,лълъ,регьабулълъуку,sample,SA,yes
+1178,ƛʼ,ku,кь,рекукьику,sample,SA,unclear
+1179,ɬː,ku,лълъ,рехъиналълъуку,sample,SA,yes
+1180,ɬ,ku,лъ,рехъиналъуку,sample,SA,yes
+1181,ƛʼ,ku,кь,решинакьику,sample,SA,yes
+1182,ɬ,ku,лъ,румкалъику,sample,SA,yes
+1183,ɬ,ku,лъ,рухьулъику,sample,SA,yes
+1184,e,ku,е,рушеку,sample,SA,yes
+1185,č,ku,чI,рушибалъичӀуку,sample,SA,yes
+1186,č,ku,чI,рушичӀуку,sample,SA,yes
+1187,ɬ,ku,лъ,самаварилъику,sample,SA,yes
+1188,unclear,ku,unclear,ссеаку,sample,SA,yes
+1189,unclear,ku,unclear,ссеаку,х,SA,yes
+1190,unclear,ku,unclear,ссеаку,х,SA,yes
+1191,unclear,ku,unclear,ссеаку,х,SA,yes
+1192,unclear,ku,unclear,ссеаку,х,SA,yes
+1193,unclear,ku,unclear,ссеаку,х,SA,yes
+1194,unclear,ku,unclear,ссеаку,sample,SA,yes
+1195,unclear,ku,unclear,ссеаку,х,SA,yes
+1196,unclear,ku,unclear,ссеаку,sample,SA,yes
+1197,ɬ,ku,лъ,телепоналъику,sample,SA,no
+1198,ɬ,ku,лъ,томонгилъику,sample,SA,yes
+1199,e,ku,е,туканеку,sample,SA,yes
+1200,e,ku,е,туканеку,х,SA,yes
+1201,ɬ,ku,лъ,туснахъалъику,sample,SA,no_metaph
+1202,ɬː,ku,лълъ,туснахъалълъуку,х,SA,no_metaph
+1203,ɬː,ku,лълъ,туснахъалълъуку,х,SA,no_metaph
+1204,č,ku,чI,тӀамирачӀуку,sample,SA,no
+1205,unclear,ku,unclear,удуку,sample,SA,yes
+1206,unclear,ku,unclear,удуку,х,SA,yes
+1207,unclear,ku,unclear,удуку,х,SA,yes
+1208,unclear,ku,unclear,удуку,х,SA,no_sense
+1209,unclear,ku,unclear,удуку,х,SA,yes
+1210,č,ku,чI,унсучӀуку,sample,SA,yes
+1211,ɬ,ku,лъ,унщилъику,sample,SA,yes
+1212,NA,ku,NA,уруку,sample,SA,yes
+1213,χ,ku,х,устарахеку,sample,SA,no
+1214,unclear,ku,unclear,хеаку,sample,SA,yes
+1215,č,ku,чI,хъизаначӀуку,sample,SA,yes
+1216,e,ku,е,хъупиреку,sample,SA,yes
+1217,ɬ,ku,лъ,хъучилъику,х,SA,no
+1218,ɬː,ku,лълъ,хьагилълъуку,sample,SA,yes
+1219,ɬː,ku,лълъ,хьагилълъуку,х,SA,yes
+1220,e,ku,е,хӀеджеку,sample,SA,no
+1221,č,ku,чI,хӀукмучӀуку,sample,SA,no
+1222,χ,ku,х,цӀекӀабахику,sample,SA,yes
+1223,ƛʼ,ku,кь,цӀцӀалакьику,sample,SA,no
+1224,ƛʼ,a,кь,дордолакьа,sample,SA,yes
+1225,č,ku,чI,цӀцӀалачӀуку,sample,SA,no
+1226,ɬː,ku,лълъ,чайникӀилълъуку,sample,SA,yes
+1227,ɬː,ku,лълъ,чанталълъуку,sample,SA,yes
+1228,ɬː,ku,лълъ,чанталълъуку,х,SA,yes
+1229,ɬː,ku,лълъ,чердакалълъуку,sample,SA,no_sense
+1230,χ,ku,х,чӀабарахику,sample,SA,yes
+1231,χ,ku,х,чӀеркӀвахику,sample,SA,yes
+1232,χ,ku,х,чӀеркӀвахику,sample,SA,yes
+1233,ƛʼ,a,кь,гьикьа,sample,SA,yes
+1234,NA,ku,NA,чӀчӀидуку,sample,SA,no_sense
+1235,NA,ku,NA,чӀчӀидуку,sample,SA,yes
+1236,NA,ku,NA,чӀчӀидуку,х,SA,no_sense
+1237,χ,ku,х,чӀчӀидурахику,х,SA,no_sense
+1238,χ,ku,х,чӀчӀидурахику,sample,SA,no_sense
+1239,χ,ku,х,чӀчӀидурахику,х,SA,no_sense
+1240,χ,ku,х,чӀчӀидурахику,sample,SA,no
+1241,χ,ku,х,чӀчӀидурахику,х,SA,no_sense
+1242,mix,ku,mix,бе́кьарукучІа,sample,AA,unclear
+1243,mix,ku,mix,бе́кьарукучІа,х,AA,unclear
+1244,unclear,ku,unclear,бесхъе́кула,х,AA,no_sense
+1245,NA,ku,NA,векьару́ку,sample,AA,unclear
+1246,NA,ku,NA,гьади́ку,х,AA,unclear
+1247,NA,ku,NA,гьа́дику,х,AA,yes
+1248,NA,ku,NA,рекьару́ку,sample,AA,yes
+1249,NA,ku,NA,рессхъе́ку,sample,AA,yes
+1250,NA,ku,NA,а́раку (уда́ку-а́раку),sample,AA,yes
+1251,NA,ku,NA,ару́ку,sample,AA,yes
+1252,NA,ku,NA,ба́кьуку,sample,AA,no
+1253,NA,ku,NA,ба́кьуку,х,AA,yes
+1254,NA,ku,NA,ба́кьуку,х,AA,yes
+1255,NA,ku,NA,ба́кьуку,sample,AA,unclear
+1256,NA,ku,NA,ба́кьуку,х,AA,yes
+1257,unclear,ku,unclear,бесхъе́ку,sample,AA,yes 
+1258,NA,ku,NA,бехъу́тІуку,sample,AA,yes
+1259,NA,ku,NA,ва́кьуку,х,AA,no
+1260,NA,ku,NA,ва́кьуку,х,AA,yes
+1261,NA,ku,NA,ва́кьуку,х,AA,no
+1262,unclear,ku,unclear,гьēку,х,AA,no
+1263,unclear,ku,unclear,гьēкуссул,х,AA,yes
+1264,unclear,ku,unclear,гье́ку,sample,AA,yes
+1265,unclear,ku,unclear,гье́ку,х,AA,yes
+1266,unclear,ku,unclear,гье́ку,х,AA,yes
+1267,unclear,ku,unclear,гье́ку,sample,AA,yes
+1268,unclear,ku,unclear,гье́ку,sample,AA,yes
+1269,unclear,ku,unclear,гье́ку,sample,AA,yes
+1270,unclear,ku,unclear,гье́ку,sample,AA,yes
+1271,unclear,ku,unclear,гье́ку,х,AA,no
+1272,unclear,ku,unclear,гье́ку,х,AA,no
+1273,unclear,ku,unclear,гье́ку,х,AA,no
+1274,unclear,ku,unclear,гье́ку,х,AA,no
+1275,unclear,ku,unclear,гье́ку,sample,AA,no
+1276,unclear,ku,unclear,гье́ку,х,AA,no
+1277,unclear,ku,unclear,гье́ку,х,AA,no
+1278,unclear,ku,unclear,гье́ку,sample,AA,no
+1279,unclear,ku,unclear,гье́ку,х,AA,no
+1280,unclear,ku,unclear,гье́ку,х,AA,no
+1281,unclear,ku,unclear,гье́ку,sample,AA,no
+1282,unclear,ku,unclear,гье́ку,х,AA,no
+1283,unclear,ku,unclear,гье́ку,х,AA,no
+1284,unclear,ku,unclear,гье́ку,х,AA,no
+1285,unclear,ku,unclear,гье́ку,sample,AA,no
+1286,unclear,ku,unclear,гье́ку,х,AA,no
+1287,unclear,ku,unclear,гье́ку,sample,AA,no
+1288,unclear,ku,unclear,гье́ку,х,AA,no
+1289,unclear,ku,unclear,гье́ку,х,AA,no
+1290,unclear,ku,unclear,гье́ку,х,AA,no
+1291,unclear,ku,unclear,гье́ку,sample,AA,yes
+1292,unclear,ku,unclear,гье́ку,х,AA,yes
+1293,unclear,ku,unclear,гье́ку,sample,AA,yes&no
+1294,unclear,ku,unclear,гье́ку,х,AA,no
+1295,unclear,ku,unclear,гье́ку,х,AA,yes
+1296,unclear,ku,unclear,гье́ку,sample,AA,yes
+1297,unclear,ku,unclear,гье́ку,х,AA,no
+1298,unclear,ku,unclear,гье́ку,sample,AA,yes
+1299,unclear,ku,unclear,гье́ку,х,AA,yes
+1300,unclear,ku,unclear,гье́ку,sample,AA,no
+1301,unclear,ku,unclear,гье́ку,sample,AA,yes
+1302,unclear,ku,unclear,гье́ку,sample,AA,yes
+1303,unclear,ku,unclear,гье́ку,х,AA,unclear
+1304,unclear,ku,unclear,гье́ку,х,AA,unclear
+1305,unclear,ku,unclear,гье́ку,х,AA,unclear
+1306,unclear,ku,unclear,гье́ку,х,AA,unclear
+1307,unclear,ku,unclear,гье́ку,х,AA,unclear
+1308,unclear,ku,unclear,гье́ку,sample,AA,unclear
+1309,unclear,ku,unclear,гье́ку,sample,AA,unclear
+1310,unclear,ku,unclear,гье́ку,х,AA,unclear
+1311,unclear,ku,unclear,гье́ку,х,AA,unclear
+1312,unclear,ku,unclear,гье́ку,х,AA,yes
+1313,unclear,ku,unclear,гье́ку,х,AA,unclear
+1314,unclear,ku,unclear,гье́ку,х,AA,unclear
+1315,unclear,ku,unclear,гье́ку,х,AA,unclear
+1316,unclear,ku,unclear,гье́ку,sample,AA,no
+1317,unclear,ku,unclear,гье́ку,х,AA,unclear
+1318,unclear,ku,unclear,гье́ку,х,AA,unclear
+1319,unclear,ku,unclear,гье́ку,х,AA,unclear
+1320,unclear,ku,unclear,гье́ку,х,AA,unclear
+1321,unclear,ku,unclear,гье́ку,sample,AA,unclear
+1322,unclear,ku,unclear,гье́ку,sample,AA,unclear
+1323,unclear,ku,unclear,гье́ку,х,AA,unclear
+1324,unclear,ku,unclear,гье́ку,х,AA,unclear
+1325,unclear,ku,unclear,гье́ку,sample,AA,yes
+1326,unclear,ku,unclear,гье́ку,х,AA,yes
+1327,unclear,ku,unclear,гье́ку,х,AA,unclear
+1328,unclear,ku,unclear,гье́ку,sample,AA,unclear
+1329,unclear,ku,unclear,гье́ку,х,AA,yes
+1330,unclear,ku,unclear,гье́ку,х,AA,yes
+1331,unclear,ku,unclear,гье́ку,sample,AA,yes
+1332,unclear,ku,unclear,гье́ку,х,AA,no
+1333,ƛʼ,ku,кь,гьикьаду́ку,х,AA,yes
+1334,NA,ku,NA,гьи́кьибалъику,sample,AA,unclear
+1335,NA,ku,NA,гьи́кьибалъику(да),х,AA,unclear
+1336,NA,ku,NA,гьи́кьибалъикуда,х,AA,unclear
+1337,ƛʼ,ku,кь,гьикьи́ку,sample,AA,unclear
+1338,ƛʼ,ku,кь,гьикьи́ку,х,AA,
+1339,ƛʼ,ku,кь,гьикьи́ку,х,AA,
+1340,ƛʼ,ku,кь,гьикьи́ку,х,AA,
+1341,ƛʼ,ku,кь,гьикьи́ку,х,AA,yes
+1342,ƛʼ,ku,кь,гьикьи́ку,sample,AA,no
+1343,ƛʼ,ku,кь,гьикьи́ку,sample,AA,no
+1344,ƛʼ,ku,кь,гьикьи́ку,х,AA,
+1345,ƛʼ,ku,кь,гьикьи́ку,х,AA,
+1346,ƛʼ,ku,кь,гьикьи́ку,sample,AA,unclear_yes
+1347,ƛʼ,ku,кь,гьикьи́ку,х,AA,
+1348,ƛʼ,ku,кь,гьикьи́ку,х,AA,
+1349,ƛʼ,ku,кь,гьикьи́ку,х,AA,yes
+1350,ƛʼ,ku,кь,гьикьи́ку,х,AA,yes
+1351,ƛʼ,ku,кь,гьикьи́ку,sample,AA,no
+1352,ƛʼ,ku,кь,гьикьи́ку,х,AA,
+1353,ƛʼ,ku,кь,гьикьи́ку,х,AA,
+1354,ƛʼ,ku,кь,гьикьи́ку,sample,AA,unclear_yes
+1355,ƛʼ,ku,кь,гьикьи́ку,sample,AA,yes
+1356,ƛʼ,ku,кь,гьикьи́ку,х,AA,yes
+1357,ƛʼ,ku,кь,гьикьи́ку,х,AA,yes
+1358,ƛʼ,ku,кь,гьикьи́ку,х,AA,yes
+1359,ƛʼ,ku,кь,гьикьи́ку,sample,AA,no
+1360,ƛʼ,ku,кь,гьикьи́куда,х,AA,
+1361,NA,ku,NA,гьинуку́,sample,AA,yes
+1362,NA,ku,NA,гьину́ку,sample,AA,yes
+1363,NA,ku,NA,гьину́ку,sample,AA,yes
+1364,NA,ku,NA,гьину́ку,х,AA,yes
+1365,NA,ku,NA,гьину́ку,х,AA,yes
+1366,NA,ku,NA,гьину́ку,sample,AA,yes
+1367,NA,ku,NA,гьи́нуку,sample,AA,yes
+1368,NA,ku,NA,гьи́нуку,х,AA,yes
+1369,NA,ku,NA,гьинуку́да,sample,AA,no
+1370,NA,ku,NA,гьину́куда,х,AA,no
+1371,NA,ku,NA,гьи́нукуда,х,AA,no
+1372,unclear,ku,unclear,гьу́ндуку,х,AA,unclear
+1373,NA,ku,NA,ину́ку,х,AA,yes
+1374,NA,ku,NA,инукукІва́ла,х,AA,yes
+1375,NA,ku,NA,инукула́,х,AA,yes
+1376,NA,ku,NA,инукулъила́,х,AA,yes
+1377,NA,ku,NA,инукухва́ла,х,AA,yes
+1378,NA,ku,NA,инукухва́ла,х,AA,yes
+1379,unclear,ku,unclear,ишику,х,AA,yes
+1380,unclear,ku,unclear,квадуку,sample,AA,unclear
+1381,unclear,ku,unclear,квадуку,х,AA,yes
+1382,unclear,ku,unclear,квадуку,х,AA,yes
+1383,unclear,ku,unclear,квадуку,х,AA,yes
+1384,unclear,ku,unclear,квадуку,х,AA,yes
+1385,NA,ku,NA,о́рссуку,sample,AA,yes
+1386,NA,ku,NA,о́рссуку,х,AA,yes
+1387,NA,ku,NA,о́рссуку,х,AA,unclear
+1388,NA,ku,NA,о́рссуку,х,AA,yes
+1389,NA,ku,NA,о́рссуку,sample,AA,yes
+1390,unclear,ku,unclear,ссеку,х,AA,unclear
+1391,unclear,ku,unclear,ссеку,х,AA,no
+1392,unclear,ku,unclear,ссеку,х,AA,yes
+1393,unclear,ku,unclear,ссеку,х,AA,yes
+1394,unclear,ku,unclear,ссеку,х,AA,unclear
+1395,unclear,ku,unclear,ссеку,х,AA,yes
+1396,unclear,ku,unclear,ссеку,х,AA,unclear
+1397,unclear,ku,unclear,ссеку,х,AA,unclear
+1398,unclear,ku,unclear,ссеку,х,AA,unclear
+1399,unclear,ku,unclear,ссеку́да,х,AA,yes
+1400,NA,ku,NA,уда́ку,х,AA,yes
+1401,NA,ku,NA,уда́ку,х,AA,yes
+1402,NA,ku,NA,уда́ку,х,AA,yes
+1403,NA,ku,NA,уда́ку,sample,AA,yes
+1404,NA,ku,NA,уда́ку,sample,AA,yes
+1405,NA,ku,NA,уда́ку,х,AA,yes
+1406,NA,ku,NA,уда́ку,х,AA,yes
+1407,NA,ku,NA,уда́ку,sample,AA,yes
+1408,NA,ku,NA,уда́ку,sample,AA,yes
+1409,NA,ku,NA,уда́ку,х,AA,unclear
+1410,NA,ku,NA,у́даку,х,AA,yes
+1411,NA,ku,NA,удаку-араку,х,AA,yes
+1412,NA,ku,NA,уда́ку-ара́ку,sample,AA,yes
+1413,NA,ku,NA,уда́ку-а́раку,sample,AA,yes
+1414,NA,ku,NA,уда́ку-ара́ку ,sample,AA,yes
+1415,NA,ku,NA,уда́ку-ара́ку ,х,AA,yes
+1416,unclear,ku,unclear,хе́ку,х,AA,unclear
+1417,unclear,ku,unclear,хе́ку,sample,AA,no
+1418,unclear,ku,unclear,хе́ку,х,AA,no
+1419,unclear,ku,unclear,гьēкуку,sample,AA,yes
+1420,unclear,ku,unclear,квадуку,х,AA,yes
+1421,unclear,ku,unclear,ми́къаку,sample,AA,no_metaph
+1422,unclear,ku,unclear,ми́къаку,sample,AA,no
+1423,unclear,ku,unclear,ми́къаку,х,AA,no_metaph
+1424,unclear,ku,unclear,ми́къаку,х,AA,no_metaph
+1425,unclear,ku,unclear,ми́къаку,sample,AA,yes
+1426,unclear,ku,unclear,муса́ку,sample,AA,no
+1427,NA,ku,NA,савлухъалда́ку,sample,AA,unclear
+1428,NA,ku,NA,ссапаралда́ку,sample,AA,no
+1429,unclear,ku,unclear,туснхъалда́ку,х,AA,no_metaph
+1430,NA,ku,NA,шагьаралда́ку,sample,AA,yes
+1431,NA,ku,NA,рахъи́дику,sample,AA,yes
+1432,NA,ku,NA,ра́хъидику,х,AA,yes
+1433,NA,ku,NA,ми́къидуку,sample,AA,no
+1434,e,ku,е,база́реку,sample,AA,yes
+1435,e,ku,е,бекIунеку,sample,AA,yes
+1436,e,ku,е,гIе́леку,х,AA,no
+1437,e,ku,е,гьа́нкъеку,х,AA,yes
+1438,e,ku,е,гьа́нкъеку,х,AA,yes
+1439,unclear,ku,unclear,гьущу́йеку,sample,AA,no
+1440,e,ku,е,дуне́леку,sample,AA,yes 
+1441,e,ku,е,и́знуйеку,sample,AA,no
+1442,e,ku,е,къватІеку,sample,AA,yes
+1443,NA,ku,NA,лъа́еку,sample,AA,no_metaph
+1444,NA,ku,NA,лъа́еку,sample,AA,no_metaph
+1445,NA,ku,NA,лъа́еку,х,AA,no_metaph
+1446,NA,ku,NA,лъа́еку,х,AA,no_metaph
+1447,NA,ku,NA,лъа́еку,sample,AA,no_metaph
+1448,NA,ku,NA,лъа́еку,х,AA,no_metaph
+1449,e,ku,е,ма́кьеку,sample,AA,no_metaph
+1450,e,ku,е,мигьуреку,sample,AA,yes
+1451,e,ku,е,ракІва́реку,sample,AA,yes
+1452,e,ku,е,цІе́кІеку,sample,AA,yes 
+1453,e,ku,е,байдане́ку,sample,AA,yes
+1454,e,ku,е,бужире́ку,sample,AA,no
+1455,e,ku,е,гъурде́ку,sample,AA,yes 
+1456,e,ku,е,гьанкъе́ку,х,AA,yes
+1457,e,ku,е,гьанкъе́ку,sample,AA,yes
+1458,e,ku,е,гьингуре́ку,sample,AA,yes
+1459,e,ku,е,законе́ку,х,AA,no
+1460,e,ku,е,зама-замане́ку,sample,AA,no_time
+1461,q,ku,хъ,ишхъе́ку,х,AA,yes
+1462,e,ku,е,кьире́ку,sample,AA,yes
+1463,e,ku,е,микъе́ку,х,AA,no
+1464,e,ku,е,муси-мусе́ку,sample,AA,yes
+1465,NA,NA,NA,муси-мусе́ку,sample,AA,yes
+1466,e,ku,е,мухеку,х,AA,no_metaph
+1467,e,ku,е,мухеку,х,AA,no_metaph
+1468,e,ku,е,мухеку,х,AA,no_metaph
+1469,e,ku,е,мухеку,х,AA,no_metaph
+1470,e,ku,е,мухе́кугучІаб,sample,AA,no_metaph
+1471,e,ku,е,осторе́ку,sample,AA,yes
+1472,e,ku,е,ракІваре́ку,sample,AA,no_metaph
+1473,e,ku,е,руше́ку,sample,AA,yes
+1474,e,ku,е,чIчIидуре́ку,sample,AA,no_sense
+1475,e,ku,е,чIчIидуре́ку,х,AA,no_sense
+1476,e,ku,е,чIчIидуре́ку,х,AA,no_sense
+1477,e,ku,е,чІчІидуре́ку,sample,AA,unclear
+1478,NA,ku,NA,гьади́ку,х,AA,yes
+1479,ƛʼ,ku,кь,гьа́рдукьику,х,AA,no_sense
+1480,ƛʼ,ku,кь,гьа́рдукьику,sample,AA,no_sense
+1481,ƛʼ,ku,кь,жава́бакьику,sample,AA,no
+1482,ƛʼ,ku,кь,къвари́лъикьику,х,AA,no
+1483,ƛʼ,ku,кь,къвари́лъикьику,sample,AA,no
+1484,mix,ku,mix,къвари́лъичIукьику,sample,AA,no
+1485,ƛ,ku,лI,видра́лIуку,sample,AA,yes
+1486,ƛ,ku,лI,бешеналIу́ку,sample,AA,yes
+1487,ƛ,ku,лI,падвалалIу́ку,sample,AA,yes
+1488,ƛ,ku,лI,букІабу́лІуку,х,AA,unclear
+1489,ƛ,ku,лI,букІабу́лІуку,sample,AA,unclear
+1490,ƛ,ku,лI,миъара́лІуку,sample,AA,unclear
+1491,ɬ,ku,лъ,автаматилъику,sample,AA,yes
+1492,ɬ,ku,лъ,а́рмилъику,х,AA,no_metaph
+1493,ɬ,ku,лъ,а́рмилъику,х,AA,no_metaph
+1494,ɬ,ku,лъ,ба́йбалъику,sample,AA,yes
+1495,ɬ,ku,лъ,ба́йлъику,sample,AA,no
+1496,ɬ,ku,лъ,гьа́нкъкулъику,sample,AA,yes
+1497,ɬ,ku,лъ,и́нссалъику,sample,AA,yes 
+1498,ɬ,ku,лъ,кIартIу́лъику,sample,AA,yes
+1499,ɬ,ku,лъ,ко́милъику,sample,AA,yes
+1500,ɬ,ku,лъ,ми́ардалъику,sample,AA,yes
+1501,ɬ,ku,лъ,мо́далъику,sample,AA,no
+1502,ɬ,ku,лъ,на́цIцIалъику,sample,AA,yes
+1503,ɬ,ku,лъ,на́цIцIалъику,sample,AA,no
+1504,ɬ,ku,лъ,пе́леналъику,х,AA,yes
+1505,ɬ,ku,лъ,пи́крулъику,sample,AA,no_metaph
+1506,ɬ,ku,лъ,рагъилъику,sample,AA,yes
+1507,ɬ,ku,лъ,рагъилъику,х,AA,yes
+1508,ɬ,ku,лъ,ра́дивалъику,sample,AA,no_sense
+1509,ɬ,ku,лъ,ра́дивалъику,sample,AA,no_sense
+1510,ɬ,ku,лъ,ссе́кундалъику,sample,AA,no_time
+1511,ɬ,ku,лъ,хху́нххулалъику,sample,AA,no
+1512,ɬ,ku,лъ,хху́нххулалъику,х,AA,no
+1513,ɬ,ku,лъ,хху́нххулалъику,sample,AA,no
+1514,ɬ,ku,лъ,бакьаралъи́ку,х,AA,yes
+1515,ɬ,ku,лъ,бакьаралъи́ку,sample,AA,yes
+1516,ɬ,ku,лъ,бичилъи́ку,sample,AA,yes
+1517,ɬ,ku,лъ,законалъи́ку,sample,AA,no
+1518,ɬ,ku,лъ,заманалъи́ку,sample,AA,no_time
+1519,ɬ,ku,лъ,заманалъи́ку,х,AA,no_time
+1520,ɬ,ku,лъ,заманалъи́ку,х,AA,no_time
+1521,ɬ,ku,лъ,лълъенилъи́ку,sample,AA,yes 
+1522,ɬ,ku,лъ,мисидалъи́ку,sample,AA,yes
+1523,ɬ,ku,лъ,радивалъи́ку,sample,AA,no_sense
+1524,ɬ,ku,лъ,ссппиртилъи́ку,sample,AA,unclear
+1525,ɬ,ku,лъ,телепоналъи́ку,х,AA,no
+1526,ɬ,ku,лъ,хъучилъи́ку,sample,AA,no
+1527,ɬ,ku,лъ,цIцIороберде́лъинуку,sample,AA,no_sense
+1528,ɬ,ku,лъ,лълъенилъи́нуку,sample,AA,yes
+1529,ɬ,ku,лъ,лълъенилъи́нуку,х,AA,yes
+1530,ɬ,ku,лъ,лълъенилъи́нуку,х,AA,yes
+1531,ɬ,ku,лъ,шагьарилъи́нуку,sample,AA,yes
+1532,ɬː,ku,лълъ,бакьи́лълъаку,х,AA,yes
+1533,ɬː,ku,лълъ,турбалалълъику,sample,AA,yes
+1534,ɬː,ku,лълъ,гьа́будалълъуку,sample,AA,no
+1535,ɬː,ku,лълъ,муцIцIилълъуку,sample,AA,yes
+1536,ɬː,ku,лълъ,чанта́лълъуку,х,AA,yes
+1537,ɬː,ku,лълъ,бешеналълъу́ку,х,AA,yes
+1538,ɬ,ku,лъ,Гуржи́йалъуку,sample,AA,yes
+1539,ɬ,ku,лъ,гьа́гъихабулъуку,sample,AA,yes
+1540,ɬ,ku,лъ,гьеберссабалъилъуку,х,AA,unclear
+1541,ɬ,ku,лъ,йа́щикІалъуку,sample,AA,yes
+1542,ɬ,ku,лъ,къегьеналъу́ку,х,AA,yes
+1543,u,ku,у,амбу́руку,х,AA,yes
+1544,u,ku,у,микъуку́да,sample,AA,no
+1545,u,ku,у,ми́къукуда,х,AA,no
+1546,u,ku,у,ми́къукуда,х,AA,no
+1547,u,ku,у,ми́къукуда,х,AA,no
+1548,χ,ku,х,гъи́жихику,sample,AA,yes
+1549,χ,ku,х,гьеъе́хику,sample,AA,yes
+1550,χ,ku,х,гьингура́хику,sample,AA,yes
+1551,χ,ku,х,ми́ардахику,х,AA,yes
+1552,χ,ku,х,ми́ъардахику,sample,AA,unclear
+1553,χ,ku,х,миъа(р)дахи́ку,х,AA,unclear
+1554,q,ku,хъ,ишхъе́ку,х,AA,yes
+1555,č,ku,чI,къинда́чIвеку,sample,AA,yes
+1556,č,ku,чI,къиндачIве́ку,sample,AA,yes
+1557,č,ku,чI,тIоргу́далучIику,sample,AA,no
+1558,č,ku,чI,а́рсичIуку,sample,AA,no
+1559,č,ku,чI,буккихаблIчIуку,sample,AA,unclear
+1560,č,ku,чI,вашащу́чIуку,sample,AA,no
+1561,č,ku,чI,вашащу́чIуку,sample,AA,no
+1562,č,ku,чI,гIумуручIуку,х,AA,no
+1563,č,ku,чI,гIу́муручIуку,sample,AA,no
+1564,č,ku,чI,гІу́муручIуку,sample,AA,no
+1565,č,ku,чI,гьамахичIуку,sample,AA,yes
+1566,č,ku,чI,гьпмалигъзабалъи́чIуку,sample,AA,yes
+1567,č,ku,чI,иму́чIуку,sample,AA,no_POSS
+1568,č,ku,чI,кIвахIали́рчIуку,sample,AA,no
+1569,č,ku,чI,катIу́чIуку,sample,AA,yes
+1570,č,ku,чI,машиначIуку,sample,AA,yes
+1571,č,ku,чI,налІичIуку,sample,AA,no
+1572,č,ku,чI,палIи́чIуку,х,AA,unclear
+1573,č,ku,чI,рашу́чIуку,sample,AA,no
+1574,č,ku,чI,сагIа́тачIукула,sample,AA,no
+1575,č,ku,чI,саи́рчIуку,sample,AA,no
+1576,č,ku,чI,тушмана́чIуку,sample,AA,no
+1577,č,ku,чI,цIа́йчIуку,sample,AA,no
+1578,č,ku,чI,ада́мичIу́ку,sample,AA,no_POSS
+1579,č,ku,чI,халкъичIу́ку,sample,AA,unclear
+1580,č,ku,чI,инсса́чІвеку,sample,AA,yes 
+1581,č,ku,чI,инххи́чІвеку,х,AA,yes
+1582,č,ku,чI,кІатучІве́ку,sample,AA,yes
+1583,č,ku,чI,макIва́чІеку,sample,AA,yes
+1584,č,ku,чI,бо́мбачІуку,sample,AA,no
+1585,č,ku,чI,ваба́гІачІуку,sample,AA,no
+1586,č,ku,чI,гощучӀуку,sample,AA,no
+1587,č,ku,чI,дичӀуку,sample,AA,no
+1588,č,ku,чI,зи́начІуку,sample,AA,no_POSS
+1589,č,ku,чI,иму́чІуку,sample,AA,no
+1590,č,ku,чI,къвари́лъичІуку,sample,AA,no
+1591,č,ku,чI,мучу́лачІуку,sample,AA,unclear
+1592,č,ku,чI,нā́лъичІуку,sample,AA,no
+1593,č,ku,чI,по́ездачІуку,sample,AA,yes
+1594,č,ku,чI,ссу́нтIичІуку,х,AA,unclear
+1595,č,ku,чI,хиза́начІуку,sample,AA,no
+1596,č,ku,чI,хІатІи́кІаничІуку,sample,AA,yes
+1597,č,ku,чI,цІа́йчІуку,sample,AA,no
+1598,NA,ku,NA,гьа́дику,х,AA,yes
+1599,e,ku,е,мусе-мусеку,sample,SA,yes
+1600,ɬ,NA,лъ,макьилъи,sample,SA,no_metaph
+1601,ɬ,NA,лъ,абтаручкалъи,sample,SA,yes
+1602,ɬ,NA,лъ,абтекалъи,sample,SA,yes
+1603,ɬ,NA,лъ,аваданабирлъи,sample,SA,no
+1604,ɬ,NA,лъ,августалъи,sample,SA,no_time
+1605,ɬ,NA,лъ,августалъи,х,SA,no_time
+1606,ɬ,NA,лъ,гьантIукIалъи,sample,SA,no_sense
+1607,ɬ,NA,лъ,адийалилъи,sample,SA,yes
+1608,ɬ,NA,лъ,инццилъи,sample,SA,unclear
+1609,ɬ,NA,лъ,кIилулъи,sample,SA,yes
+1610,ɬ,NA,лъ,ххунххулалъи,sample,SA,yes
+1611,ɬ,NA,лъ,анзилалъи ,sample,SA,yes
+1612,ɬ,NA,лъ,гарадокилъи,sample,SA,yes
+1613,ɬ,NA,лъ,апрелалъи,sample,SA,no_time
+1614,ɬ,NA,лъ,маквалъи,sample,SA,yes
+1615,ƛʼ,NA,кь,ахикьи,sample,SA,yes
+1616,ɬ,NA,лъ,къегьеналъи,sample,SA,yes
+1617,ɬ,NA,лъ,байлъи,sample,SA,yes
+1618,ɬ,NA,лъ,байлъи,х,SA,yes
+1619,ɬ,NA,лъ,байлъи,х,SA,yes
+1620,ɬ,NA,лъ,байлъи,х,SA,yes
+1621,ɬ,NA,лъ,байлъи,х,SA,yes
+1622,ɬ,NA,лъ,лълъенилъи ,х,SA,yes
+1623,ɬ,NA,лъ,гьецIилалъи,sample,SA,yes
+1624,q,a,хъ,ишхъа,х,SA,yes
+1625,NA,a,NA,бекьа,sample,SA,yes
+1626,ɬ,NA,лъ,балницалъи,х,SA,yes
+1627,ɬ,NA,лъ,балницалъи,sample,SA,yes
+1628,ɬ,NA,лъ,мигъулалъи,sample,SA,yes
+1629,ɬ,NA,лъ,баранлъи,х,SA,no_time
+1630,NA,NA,NA,мигъулади,sample,SA,yes
+1631,ɬ,NA,лъ,пара-паралъи,sample,SA,no_time
+1632,ɬ,NA,лъ,кIилулъи,sample,SA,no
+1633,ɬ,NA,лъ,рушалъи,sample,SA,yes
+1634,ɬ,NA,лъ,мадрасалъи,sample,SA,no_metaph
+1635,ɬ,NA,лъ,гьунчIалъи,sample,SA,no
+1636,ɬ,NA,лъ,зивлъи,sample,SA,no_time
+1637,ɬ,NA,лъ,гьакьилъи,sample,SA,no_time
+1638,ɬː,NA,лълъ,д)лълъи,sample,SA,no
+1639,ɬː,NA,лълъ,амбурайлълъи,sample,SA,no
+1640,q,NA,хъ,михъи,х,SA,yes
+1641,ɬ,NA,лъ,рухьулъи,sample,SA,yes
+1642,ɬ,NA,лъ,бекIуналъи,sample,SA,no
+1643,ƛʼ,a,кь,ахикьа,х,SA,yes
+1644,ƛʼ,a,кь,ахикьа,х,SA,yes
+1645,ƛʼ,a,кь,микъаракьа,х,SA,yes
+1646,NA,a,NA,бекьа,х,SA,yes
+1647,NA,a,NA,бекьа,х,SA,yes
+1648,NA,a,NA,бекьа,х,SA,yes
+1649,ƛʼ,a,кь,ахикьа,х,SA,yes
+1650,ƛʼ,a,кь,ахикьа,х,SA,yes
+1651,ƛʼ,a,кь,гьикьа ,х,SA,no
+1652,ƛʼ,a,кь,цIекIабакьа,sample,SA,yes
+1653,unclear,a,unclear,микъала,sample,SA,yes
+1654,χ,NA,х,цIекIабахи,sample,SA,yes
+1655,ɬ,NA,лъ,цIекIулъи,sample,SA,yes
+1656,ɬ,NA,лъ,цIекIулъи,sample,SA,yes
+1657,ɬ,NA,лъ,хIаргъалъи,sample,SA,yes
+1658,χ,NA,х,цIекIабахи,sample,SA,yes
+1659,č,NA,чI,кIатучIу,sample,SA,no_POSS
+1660,ɬ,NA,лъ,цIцIекIулъи,х,SA,yes
+1661,ƛʼ,a,кь,гьикьа,х,SA,yes
+1662,ƛʼ,a,кь,гьикьа,х,SA,no
+1663,ƛʼ,a,кь,гьикьа,х,SA,yes
+1664,ƛʼ,a,кь,гьикьа,х,SA,yes
+1665,ƛʼ,a,кь,гьикьа,х,SA,yes
+1666,ƛʼ,a,кь,гьикьа,х,SA,yes
+1667,ƛʼ,a,кь,гьикьа,х,SA,no
+1668,ƛʼ,a,кь,гьикьа,х,SA,no
+1669,ƛʼ,a,кь,микъаракьа,sample,SA,no_sense
+1670,ƛʼ,NA,кь,микъаракьи ,sample,SA,yes
+1671,ƛʼ,a,кь,нукабакьа,х,SA,yes
+1672,ƛʼ,a,кь,нукабакьа,sample,SA,yes
+1673,ƛʼ,a,кь,гьикьа,sample,SA,yes
+1674,ƛʼ,a,кь,решинакьа,sample,SA,no_sense
+1675,ƛʼ,a,кь,решинакьа,х,SA,yes
+1676,ƛʼ,a,кь,решинакьа,х,SA,yes
+1677,ƛʼ,a,кь,решинакьа,х,SA,yes
+1678,ƛʼ,a,кь,гьикьа,sample,AA,yes
+1679,NA,a,NA,бекьа,sample,SA,yes
+1680,ƛʼ,a,кь,хIаркъикьа ,sample,SA,no
+1681,χ,NA,х,гьущухи,sample,SA,no
+1682,č,NA,чI,гьущучIу,sample,SA,no
+1683,ƛʼ,a,кь,цIекIабакьа,sample,SA,yes
+1684,ɬ,ku,лъ,кьучIчIалъику,sample,SA,yes
+1685,q,a,хъ,ишхъа,х,SA,yes
+1686,q,a,хъ,ишхъа,х,SA,yes
+1687,q,a,хъ,ишхъа,х,SA,yes
+1688,q,a,хъ,ишхъа,х,SA,yes
+1689,q,a,хъ,ишхъа,х,SA,yes
+1690,q,a,хъ,ишхъа,х,SA,yes
+1691,q,a,хъ,ишхъа,х,SA,yes
+1692,NA,a,NA,бесхъа ,х,SA,yes
+1693,NA,a,NA,бесхъа ,х,SA,yes
+1694,NA,a,NA,бесхъа ,х,SA,no_time
+1695,q,a,хъ,ишхъа,х,SA,yes
+1696,q,a,хъ,ишхъа ,х,SA,yes
+1697,NA,a,NA,бесхъа ,х,SA,yes
+1698,NA,a,NA,бесхъа,х,SA,no_time
+1699,q,a,хъ,ишхъа ,х,SA,yes
+1700,NA,a,NA,бесхъа,х,SA,unclear
+1701,q,a,хъ,цIахъа ,х,SA,yes 
+1702,q,a,хъ,ишхъа,х,SA,yes 
+1703,q,a,хъ,ишхъа,х,SA,yes 
+1704,q,a,хъ,ишхъа,х,SA,yes 
+1705,q,a,хъ,ишхъа,х,SA,yes 
+1706,q,a,хъ,ишхъа,х,SA,yes 
+1707,q,a,хъ,ишхъа,х,SA,yes 
+1708,q,a,хъ,ишхъа,х,SA,yes 
+1709,NA,a,NA,бесхъа,х,SA,no_time
+1710,q,a,хъ,ишхъа,х,SA,yes 
+1711,q,a,хъ,ишхъа,х,SA,yes 
+1712,q,a,хъ,ишхъа,х,SA,yes 
+1713,q,a,хъ,ишхъа,х,SA,yes 
+1714,q,a,хъ,ишхъа,х,SA,yes 
+1715,q,a,хъ,ишхъа,х,SA,yes
+1716,q,a,хъ,ишхъа,х,SA,yes
+1717,χ,NA,х,гьущухи,х,SA,no
+1718,NA,a,NA,весхъа,х,SA,no_sense
+1719,q,a,хъ,ишхъа,х,SA,yes
+1720,ɬ,NA,лъ,зивлъи,sample,SA,no_time
+1721,q,a,хъ,цIахъа ,х,SA,yes
+1722,q,NA,хъ,цIахъи,sample,SA,yes
+1723,q,NA,хъ,цIахъи,х,SA,yes
+1724,q,NA,хъ,цIахъи,х,SA,yes
+1725,χ,a,х,ищиха,х,SA,yes
+1726,χ,a,х,ищиха,х,SA,yes
+1727,χ,a,х,илуха ,sample,SA,yes
+1728,χ,a,х,диха,sample,SA,no_POSS
+1729,χ,a,х,бēбаха,х,SA,yes
+1730,χ,NA,х,бēбахи,sample,SA,yes
+1731,χ,a,х,цIцIеруха,sample,SA,no
+1732,χ,a,х,кIвахIаллъовщуха,sample,SA,yes
+1733,χ,a,х,кIвахIаллъовщуха,sample,SA,yes
+1734,χ,a,х,ищиха,х,SA,yes
+1735,χ,a,х,беххиларха ,sample,SA,no
+1736,χ,a,х,беххиларха ,х,SA,no
+1737,χ,a,х,беххиларха ,х,SA,no
+1738,χ,a,х,ваццуха,sample,SA,no_POSS
+1739,χ,a,х,къегьемаха,sample,SA,yes
+1740,χ,a,х,бекьараха,х,SA,yes
+1741,χ,a,х,биштиха ,sample,SA,no_POSS
+1742,χ,a,х,гьущуха,sample,SA,no_POSS
+1743,χ,a,х,гьекIуха,sample,SA,yes
+1744,χ,a,х,диха,х,SA,no_POSS
+1745,χ,a,х,ищиха,х,SA,yes
+1746,χ,a,х,гьущуха,х,SA,yes
+1747,χ,a,х,гьалмагъиха,sample,SA,yes
+1748,χ,a,х,гьулуха,sample,SA,yes
+1749,χ,NA,х,гьулухе,sample,SA,yes
+1750,χ,a,х,гьудулзабалъиха,sample,SA,yes
+1751,χ,a,х,гьанеха,sample,SA,yes
+1752,χ,a,х,илIиха,sample,SA,yes
+1753,χ,a,х,Ингушалуха,sample,SA,yes
+1754,χ,a,х,гъабирха,sample,SA,no
+1755,χ,a,х,гъабирха,х,SA,no
+1756,χ,a,х,гъабирха,х,SA,no
+1757,χ,a,х,гъабирха,х,SA,no
+1758,χ,a,х,ищиха,х,SA,yes
+1759,χ,a,х,гъижиха,х,SA,yes
+1760,χ,NA,х,гъижихи,sample,SA,yes
+1761,χ,a,х,духа,sample,SA,no_POSS
+1762,χ,a,х,макIилуха ,sample,SA,no
+1763,χ,a,х,илуха ,х,SA,yes
+1764,χ,a,х,гIагарлъиха,х,SA,yes
+1765,χ,a,х,биштиха ,х,SA,yes
+1766,χ,a,х,диха,sample,SA,yes
+1767,χ,a,х,гьалмагъзабалъиха,sample,SA,yes
+1768,χ,a,х,завхозаха,sample,SA,no_POSS
+1769,χ,a,х,ищиха,х,SA,yes
+1770,e,NA,е,зама-замане,sample,SA,no_time
+1771,χ,a,х,заместителиха,sample,SA,no_POSS
+1772,χ,a,х,ищиха,х,SA,yes
+1773,χ,a,х,ищиха,х,SA,yes
+1774,χ,a,х,илIиха,sample,SA,yes
+1775,χ,NA,х,ищихе,sample,SA,yes
+1776,χ,a,х,ищиха,sample,SA,yes
+1777,χ,a,х,цIцIеруха,sample,SA,no
+1778,χ,a,х,диха,х,SA,no_POSS
+1779,χ,a,х,бищтиха,х,SA,yes
+1780,χ,a,х,индуха,sample,SA,yes
+1781,χ,a,х,индуха,х,SA,yes
+1782,χ,a,х,гьущуха,х,SA,no_POSS
+1783,χ,a,х,инщуха,sample,SA,no_POSS
+1784,χ,a,х,диха,х,SA,no_POSS
+1785,χ,a,х,диха,х,SA,no_POSS
+1786,χ,a,х,ищиха,sample,SA,no_POSS
+1787,χ,a,х,чIчIидураха,sample,SA,no_sense
+1788,χ,a,х,кванараха,sample,SA,yes
+1789,e,NA,е,кванаре,sample,SA,yes
+1790,q,NA,хъ,ишхъе,sample,SA,yes
+1791,χ,a,х,мадухалиха,sample,SA,yes
+1792,χ,a,х,ищиха,х,SA,yes
+1793,χ,a,х,ищиха,х,SA,yes
+1794,χ,a,х,ищиха,х,SA,yes
+1795,χ,a,х,биштиха ,х,SA,yes
+1796,χ,a,х,къватIуха,sample,SA,no
+1797,χ,a,х,духа ,х,SA,yes
+1798,χ,a,х,духа ,х,SA,yes
+1799,χ,a,х,гьеэха,х,SA,yes
+1800,χ,a,х,духа ,х,SA,yes
+1801,χ,a,х,гьачIчIаха,sample,SA,yes
+1802,χ,a,х,гьущуха ,sample,SA,no_POSS
+1803,χ,a,х,каласабаха,sample,SA,yes
+1804,χ,a,х,духа ,х,SA,yes
+1805,ɬ,NA,лъ,калассалъи,sample,SA,yes
+1806,χ,a,х,ищиха,х,SA,yes
+1807,NA,a,NA,муха,х,SA,no_metaph
+1808,χ,a,х,ищиха,х,SA,yes
+1809,χ,a,х,диха,sample,SA,no_POSS
+1810,χ,a,х,наниха,sample,SA,no
+1811,χ,a,х,нукабаха,sample,SA,yes
+1812,χ,a,х,нукабаха,х,SA,yes
+1813,χ,a,х,нукабдаха,sample,SA,unclear
+1814,χ,a,х,гьеэха ,sample,SA,yes
+1815,χ,a,х,реабаха,sample,SA,no
+1816,χ,a,х,диха,sample,SA,no
+1817,χ,a,х,илуха ,sample,SA,yes
+1818,χ,a,х,мадухалзабалъиха,sample,SA,yes
+1819,χ,a,х,диха,sample,SA,yes
+1820,χ,a,х,гьингураха,sample,SA,yes
+1821,χ,a,х,цIцIеруха,х,SA,no
+1822,χ,a,х,адамиха ,sample,SA,no
+1823,χ,a,х,диха,sample,SA,no
+1824,χ,a,х,рекъеха,sample,SA,no_sense
+1825,χ,a,х,гьачIчIаха,х,SA,yes
+1826,χ,a,х,ищиха,х,SA,yes
+1827,χ,a,х,цIцIеруха,х,SA,no
+1828,χ,a,х,чIидураха,х,SA,no_sense
+1829,χ,a,х,биштиха ,х,SA,yes
+1830,χ,a,х,биштиха ,х,SA,yes
+1831,χ,a,х,чIчIидураха,sample,SA,yes
+1832,χ,a,х,чIчIидураха,х,SA,yes
+1833,χ,a,х,чIчIидураха,х,SA,yes
+1834,χ,a,х,гьущуха,sample,SA,no
+1835,χ,a,х,биштиха,х,SA,yes
+1836,χ,a,х,илIиха ,sample,SA,yes
+1837,χ,a,х,гьущуха ,х,SA,yes
+1838,χ,a,х,ищиха,х,SA,yes
+1839,χ,a,х,гьеэха ,х,SA,yes
+1840,χ,a,х,беххииларха,х,SA,no
+1841,χ,a,х,чIикварирха,х,SA,no
+1842,χ,a,х,имуха,sample,SA,unclear
+1843,č,NA,чI,дýчIу,х,SA,yes
+1844,č,NA,чI,ракIварчIу,sample,SA,unclear
+1845,č,NA,чI,ищичIу,sample,SA,no_POSS
+1846,č,NA,чI,ракIварчIу,sample,SA,no
+1847,č,NA,чI,макIичIу,sample,SA,yes
+1848,č,NA,чI,голълъичIу,sample,SA,no_POSS
+1849,č,NA,чI,дучIу,sample,SA,no
+1850,č,NA,чI,машиначIу,sample,SA,yes
+1851,č,NA,чI,дичIу,sample,SA,no  
+1852,č,NA,чI,гьущучIу,sample,SA,no  
+1853,č,NA,чI,хвайичIу,sample,SA,yes
+1854,č,NA,чI,голълъичIу,sample,SA,no
+1855,č,NA,чI,гощучIу ,sample,SA,no
+1856,č,NA,чI,ракIварчIу,sample,SA,unclear
+1857,č,NA,чI,дичIу,sample,SA,no_POSS
+1858,č,NA,чI,унсечIу,sample,SA,no
+1859,č,NA,чI,дучIу,х,SA,no_POSS
+1860,č,NA,чI,дучIу,х,SA,unclear
+1861,č,NA,чI,адамалучIу,sample,SA,yes
+1862,č,NA,чI,дичIу,sample,SA,yes
+1863,č,NA,чI,дичIу ,sample,SA,no_POSS
+1864,č,NA,чI,мухучIу,sample,SA,no
+1865,č,NA,чI,адамалучIу,sample,SA,no
+1866,č,NA,чI,ищичIу,sample,SA,no
+1867,č,NA,чI,дичIу,sample,SA,no
+1868,č,NA,чI,бацIачIу,sample,SA,no
+1869,č,NA,чI,гощуйчIу,sample,SA,no
+1870,č,NA,чI,голълъичIу,sample,SA,no_POSS
+1871,č,NA,чI,маркIачIу,х,SA,no_time
+1872,č,NA,чI,зурзунчичIу ,sample,SA,yes
+1873,č,NA,чI,гьущучIу ,х,SA,no_POSS
+1874,č,NA,чI,инщучIу ,sample,SA,no_POSS
+1875,č,NA,чI,гьулълъичIу,sample,SA,no
+1876,č,NA,чI,гощучIу,sample,SA,no
+1877,č,NA,чI,зинēчIу,sample,SA,no
+1878,č,NA,чI,гьущучIу,х,SA,no_POSS
+1879,č,NA,чI,илIичIу ,sample,SA,unclear
+1880,č,NA,чI,гощучIу,sample,SA,no
+1881,č,NA,чI,макIичIу ,sample,SA,no
+1882,č,NA,чI,гьущучIу,sample,SA,no
+1883,č,NA,чI,шишачIу,sample,SA,yes
+1884,č,NA,чI,турбабалъичIу,sample,SA,yes__no
+1885,č,NA,чI,дичIу,х,SA,no
+1886,č,NA,чI,дучIу ,sample,SA,unclear
+1887,č,NA,чI,дучIу ,х,SA,no_POSS
+1888,č,NA,чI,гьулълъичIу,sample,SA,no_POSS
+1889,č,NA,чI,гьулълъичIу,х,SA,no_POSS
+1890,č,NA,чI,ракIварчIу,х,SA,no
+1891,č,NA,чI,маркIачIу,х,SA,no_time
+1892,č,NA,чI,маркIачIу,х,SA,no_time
+1893,č,NA,чI,машиначIу,sample,SA,yes
+1894,č,NA,чI,дучIу,х,SA,no_POSS
+1895,č,NA,чI,голълъичIу,х,SA,no
+1896,č,NA,чI,буцIцIачIу,sample,SA,yes
+1897,č,NA,чI,машиначIу,х,SA,yes
+1898,č,NA,чI,макIилучIу,sample,SA,no
+1899,č,NA,чI,окочIу,sample,SA,yes
+1900,č,NA,чI,окочIу,sample,SA,yes
+1901,č,NA,чI,дичIу ,х,SA,no
+1902,č,NA,чI,дYчIу,х,SA,no
+1903,č,NA,чI,дичIу,sample,SA,no_POSS
+1904,č,NA,чI,рушичIу,sample,SA,no
+1905,č,NA,чI,поездачIу,sample,SA,yes
+1906,č,NA,чI,зиначIу,sample,SA,no_POSS
+1907,č,NA,чI,ракIварчIу,sample,SA,unclear
+1908,č,NA,чI,унсечIу,sample,SA,yes
+1909,č,NA,чI,самалйотичIу,sample,SA,yes
+1910,č,NA,чI,самасваличIу,sample,SA,yes
+1911,č,NA,чI,гьулъичIу,sample,SA,no_POSS
+1912,č,NA,чI,гьулълъичIу ,sample,SA,no_POSS
+1913,č,NA,чI,канвертачIу,sample,SA,yes
+1914,č,NA,чI,гьущучIу ,х,SA,no
+1915,č,NA,чI,дучIу,sample,SA,no_POSS
+1916,č,NA,чI,гьущучIу ,sample,SA,no_POSS
+1917,č,NA,чI,голълъичIу ,sample,SA,no
+1918,č,NA,чI,унсечIу,х,SA,no
+1919,č,NA,чI,макIичIу,sample,SA,no
+1920,č,NA,чI,гIолохъабалъичIу,sample,SA,no
+1921,ɬ,NA,лъ,ццибурулъи,х,SA,no_time
+1922,č,NA,чI,макIичIу,sample,SA,no
+1923,č,NA,чI,дичIу,х,SA,no
+1924,č,NA,чI,дичIу,х,SA,no
+1925,č,NA,чI,дучIу ,х,SA,no_POSS
+1926,č,NA,чI,салабалъичIу ,sample,SA,yes
+1927,č,NA,чI,кIатучIу,sample,SA,no
+1928,č,NA,чI,дичIу,х,SA,no
+1929,č,NA,чI,гьущучIу ,х,SA,no
+1930,č,NA,чI,эргъваначIу,sample,SA,unclear
+1931,č,NA,чI,къуркъучIу,sample,SA,yes
+1932,č,NA,чI,гощучIу ,sample,SA,no
+1933,č,NA,чI,имучIу,х,SA,unclear
+1934,NA,a,NA,хьваъа,sample,SA,yes
+1935,q,NA,хъ,ишхъе ,х,SA,yes
+1936,ɬ,NA,лъ,адийалалъи,х,SA,yes
+1937,ɬ,NA,лъ,реулъи,sample,SA,yes
+1938,ɬ,NA,лъ,рушилъи,sample,SA,yes
+1939,ɬ,NA,лъ,рикьилъи,х,SA,yes
+1940,ɬ,NA,лъ,бехъалъи,sample,SA,yes
+1941,ɬ,NA,лъ,бертинлъи,sample,SA,no
+1942,ɬ,a,лъ,каласалъи,х,SA,no_metaph
+1943,ɬ,NA,лъ,ццибурулъи,х,SA,no_time
+1944,ɬ,NA,лъ,школалъи,sample,SA,yes
+1945,ɬ,NA,лъ,мухулъи,sample,SA,no
+1946,ɬ,NA,лъ,жил'алъи,sample,SA,yes
+1947,ɬ,NA,лъ,зивлъи,sample,SA,no_time
+1948,ɬ,NA,лъ,щакъилъи,sample,SA,yes
+1949,ɬ,NA,лъ,лIирлIалъи,sample,SA,yes
+1950,ɬ,NA,лъ,рēбулъи,sample,SA,no_time
+1951,ɬ,NA,лъ,буйлъи,sample,SA,no
+1952,ɬ,NA,лъ,кассалъи,sample,SA,yes
+1953,ɬ,NA,лъ,постилъи,sample,SA,unclear
+1954,ɬ,NA,лъ,гаражалъи,sample,SA,yes
+1955,ɬ,NA,лъ,къенулъи,х,SA,no_time
+1956,ɬ,NA,лъ,биччилъи,sample,SA,yes
+1957,ɬ,NA,лъ,дарццилъи,sample,SA,no
+1958,ɬ,NA,лъ,бертинлъи,х,SA,no
+1959,ɬ,NA,лъ,къенулъи,х,SA,no_time
+1960,ɬ,NA,лъ,ссагIаталъи,sample,SA,no_time
+1961,ɬ,NA,лъ,газилъи,sample,SA,no_metaph
+1962,ɬ,NA,лъ,гарассалъи,sample,SA,yes
+1963,ɬ,NA,лъ,гизулъи,sample,SA,yes
+1964,ɬ,NA,лъ,ццибурулъи,х,SA,no_time
+1965,ɬ,NA,лъ,лълъенилъи,х,SA,yes 
+1966,ɬ,NA,лъ,жилалъи,х,SA,yes
+1967,ɬ,NA,лъ,гьалалъи,sample,SA,yes
+1968,ɬ,NA,лъ,гьанкIвалъи,х,SA,yes
+1969,ɬ,NA,лъ,хъучибалъилъи,sample,SA,yes
+1970,ɬ,NA,лъ,машиналъи,sample,SA,yes
+1971,ɬ,NA,лъ,нукулъи,sample,SA,yes
+1972,ɬ,NA,лъ,залилъи,sample,SA,yes 
+1973,ɬ,NA,лъ,гъузилалъи,sample,SA,yes
+1974,ɬ,NA,лъ,гъузилалъи,х,SA,yes
+1975,ɬ,NA,лъ,чIабаралъи,sample,SA,yes
+1976,ɬ,NA,лъ,гьинцIалъи,sample,SA,no
+1977,ɬ,NA,лъ,гIумрулъи,sample,SA,no
+1978,ɬ,NA,лъ,гъванщалъи,sample,SA,yes
+1979,ɬ,NA,лъ,гьакьилъи,х,SA,no_time
+1980,ɬ,NA,лъ,курорталъи,sample,SA,yes
+1981,ɬ,NA,лъ,ушколалъи,sample,SA,no_metaph
+1982,ɬ,NA,лъ,институтилъи,sample,SA,no_metaph
+1983,ɬː,NA,лълъ,гьантIукIалълъи,sample,SA,no
+1984,ɬ,NA,лъ,пакеталъи,sample,SA,yes
+1985,ɬ,NA,лъ,ушколалъи,sample,SA,no_metaph
+1986,ɬ,a,лъ,каласалъи,х,SA,no_metaph
+1987,ɬ,NA,лъ,рēлъи,sample,SA,yes
+1988,ɬ,NA,лъ,баранлъи,sample,SA,no_time
+1989,ɬ,NA,лъ,гьулъилъи,sample,SA,no
+1990,ɬ,NA,лъ,гьулъилъи,х,SA,no
+1991,ɬ,NA,лъ,гьинцIцIулъи,sample,SA,yes
+1992,ɬ,NA,лъ,кечIилъи,sample,SA,no_metaph
+1993,ɬ,NA,лъ,лълъенилъи,sample,SA,no
+1994,ɬ,NA,лъ,хъвахъулъи,sample,SA,no
+1995,ɬ,NA,лъ,гьунчIалъи,х,SA,no
+1996,ɬ,NA,лъ,инссалъи,sample,SA,yes 
+1997,ɬ,NA,лъ,гьанкъулъи,х,SA,yes
+1998,ɬ,NA,лъ,рагъилъи,sample,SA,no
+1999,ɬ,NA,лъ,рагъилъи,х,SA,no
+2000,ɬ,NA,лъ,рагъилъи,х,SA,no
+2001,ɬ,NA,лъ,пеленалъи,sample,SA,yes
+2002,ɬ,NA,лъ,паразникIилъи,sample,SA,no
+2003,ɬ,NA,лъ,рищилъи,sample,SA,no
+2004,ɬ,NA,лъ,къецилъи,sample,SA,no
+2005,ɬ,NA,лъ,кьибдирлъи,sample,SA,no
+2006,ɬ,NA,лъ,нāлъилъи,sample,SA,no
+2007,ɬ,NA,лъ,нāлъилъи,х,SA,no
+2008,ɬ,NA,лъ,лагилъи,sample,SA,yes
+2009,ɬ,NA,лъ,гIумрулъи,х,SA,no
+2010,ɬ,NA,лъ,мухулъи,х,SA,no
+2011,ɬ,NA,лъ,гIамалалъи,sample,SA,no
+2012,ɬ,NA,лъ,мухулъи,х,SA,no
+2013,ɬ,NA,лъ,бертинлъи,х,SA,no
+2014,ɬ,NA,лъ,школалъи,х,SA,yes
+2015,ɬ,NA,лъ,даскалъи,sample,SA,yes
+2016,ɬ,NA,лъ,даскалъи,sample,SA,yes
+2017,ɬː,NA,лълъ,гьулълъи,sample,SA,no
+2018,ɬ,NA,лъ,машиналъи,sample,SA,yes
+2019,ɬ,NA,лъ,макьилъи,х,SA,no_metaph
+2020,ɬ,NA,лъ,къургIаналъи,sample,SA,unclear
+2021,ɬ,NA,лъ,кIилулъи,х,SA,no
+2022,ɬ,NA,лъ,ребулъи,sample,SA,no_time
+2023,ɬ,NA,лъ,заманалъи,sample,SA,no_time
+2024,ɬ,NA,лъ,заманалъи,х,SA,no_time
+2025,ɬ,NA,лъ,гьунчIалъи,х,SA,no
+2026,ɬ,a,лъ,каласалъи,х,SA,no_metaph
+2027,ɬ,NA,лъ,лагалъи,sample,SA,yes
+2028,ɬ,NA,лъ,макьилъидала,sample,SA,no_metaph
+2029,ɬ,NA,лъ,къенулъи,х,SA,no_time
+2030,ɬ,NA,лъ,институтилъи,х,SA,no_metaph
+2031,ɬ,NA,лъ,интирнатилъи,sample,SA,no_metaph
+2032,ɬ,NA,лъ,решилъи,sample,SA,no_time
+2033,ɬ,NA,лъ,кабиналъи,sample,SA,yes
+2034,ɬ,NA,лъ,кагъаталъи,sample,SA,yes
+2035,ɬ,NA,лъ,сабранийалъи,sample,SA,no
+2036,ɬ,NA,лъ,хъвахъулъи,х,SA,no
+2037,ɬ,NA,лъ,канверталъи,sample,SA,yes
+2038,ɬ,NA,лъ,каридоралъи,sample,SA,yes
+2039,ɬ,NA,лъ,каридоралъи,х,SA,yes
+2040,ɬ,NA,лъ,каридоралъи,х,SA,yes
+2041,ɬ,NA,лъ,карталъи,sample,SA,yes
+2042,ɬ,NA,лъ,кссалъи,х,SA,yes
+2043,ɬ,NA,лъ,къенулъи,х,SA,no_time
+2044,ɬ,NA,лъ,машиналъи,sample,SA,yes
+2045,ɬ,NA,лъ,гьулъилъи,х,SA,no
+2046,ɬ,NA,лъ,шагьаралъи,sample,SA,yes
+2047,ɬ,NA,лъ,кулебалъилъи,sample,SA,yes
+2048,ɬ,NA,лъ,рагъилъи,х,SA,no
+2049,ɬ,NA,лъ,къадарирлъи,sample,SA,no
+2050,ɬ,NA,лъ,къадрулъи,sample,SA,no
+2051,ɬ,NA,лъ,ццибурулъи,х,SA,no_time
+2052,ɬ,NA,лъ,къанцIалъи,sample,SA,yes
+2053,ɬ,NA,лъ,къенулъи,х,SA,no_time
+2054,ɬ,NA,лъ,къванкъватIир­лъи,sample,SA,yes
+2055,ɬ,NA,лъ,гьандалъи,sample,SA,yes
+2056,ɬ,NA,лъ,къванчилъи,sample,SA,yes
+2057,ɬ,NA,лъ,рикьилъи,sample,SA,yes
+2058,ɬ,NA,лъ,къенулъи,х,SA,no_time
+2059,ɬ,NA,лъ,къенулъи,х,SA,no_time
+2060,ɬ,NA,лъ,рагъилъи,х,SA,no
+2061,ɬ,NA,лъ,щинвлъи,sample,SA,yes
+2062,ɬ,NA,лъ,нассиралъи,sample,SA,yes 
+2063,ɬ,NA,лъ,биччилъи,sample,SA,yes
+2064,ɬ,NA,лъ,къороллъилъи,sample,SA,no_metaph
+2065,ɬ,NA,лъ,къулгIāлъи,sample,SA,yes
+2066,ɬ,NA,лъ,катушкалъи,sample,SA,yes__no
+2067,ɬ,NA,лъ,къиндалъи,sample,SA,yes
+2068,ɬ,NA,лъ,курушкалъи,sample,SA,yes
+2069,ɬ,NA,лъ,жилалъи,sample,SA,yes
+2070,ɬ,a,лъ,каласалъи,sample,SA,yes
+2071,ɬ,NA,лъ,кIарулъи,sample,SA,yes
+2072,ɬ,NA,лъ,кащиралъи,sample,SA,yes
+2073,ɬ,NA,лъ,гьинцIцIулъи,sample,SA,no
+2074,ɬ,a,лъ,каласалъи,х,SA,no_metaph
+2075,ɬ,NA,лъ,кIилулъи,х,SA,no
+2076,ɬ,NA,лъ,кIичIилъи,sample,SA,yes
+2077,ɬ,NA,лъ,ребулъи,х,SA,no_time
+2078,ɬ,NA,лъ,къенулъи,х,SA,no_time
+2079,ɬ,NA,лъ,рухьулъи,sample,SA,yes
+2080,ɬ,NA,лъ,лахIтулъи,sample,SA,yes
+2081,ɬ,NA,лъ,биччилъи,sample,SA,yes
+2082,ɬ,NA,лъ,мадрасалъи,х,SA,no_metaph
+2083,ɬ,NA,лъ,мāйлъи,х,SA,no_time
+2084,ɬ,NA,лъ,мāйлъи,sample,SA,no_time
+2085,ɬ,NA,лъ,макьилъи,х,SA,no_metaph
+2086,ɬ,NA,лъ,макьилъи,sample,SA,no_metaph
+2087,ɬ,NA,лъ,макьилъи,х,SA,no_metaph
+2088,ɬ,NA,лъ,ребулъи,х,SA,no_time
+2089,ɬ,NA,лъ,паэталъи,sample,SA,no
+2090,ɬ,NA,лъ,матIулъи,sample,SA,no_sense
+2091,ɬ,NA,лъ,бакьаралъи,sample,SA,yes
+2092,ɬ,NA,лъ,милицилъи,sample,SA,no_metaph
+2093,ɬ,NA,лъ,минуталъи,sample,SA,no_time
+2094,ɬ,NA,лъ,мискинирлъи,sample,SA,no
+2095,ɬ,NA,лъ,бехъалъи,sample,SA,no
+2096,ɬ,NA,лъ,паралъи,sample,SA,no_time
+2097,ɬ,a,лъ,каласалъи,х,SA,no
+2098,ɬ,NA,лъ,рагъилъи,х,SA,no
+2099,ɬ,NA,лъ,сутIилъи,sample,SA,no_metaph
+2100,ɬ,NA,лъ,мусрулъи,sample,SA,yes
+2101,ɬ,NA,лъ,мухалъиццуб,х,SA,yes
+2102,ɬ,NA,лъ,мухалъиццуб,sample,SA,yes
+2103,ɬ,NA,лъ,инссалъи,sample,SA,yes 
+2104,ɬ,NA,лъ,къиндалъи,sample,SA,yes
+2105,ɬ,NA,лъ,гигиналъи,sample,SA,yes
+2106,ɬ,NA,лъ,никкулъи,sample,SA,unclear
+2107,ɬ,NA,лъ,нихилалъиссуб,х,SA,GEN
+2108,ɬ,NA,лъ,пермалъи,sample,SA,no_metaph
+2109,ɬ,NA,лъ,реулъи,sample,SA,no
+2110,ɬ,NA,лъ,пабри­кIалъи,sample,SA,no_metaph
+2111,ɬ,NA,лъ,паланалъиссуб,sample,SA,no
+2112,ɬ,NA,лъ,палаталъи,sample,SA,yes
+2113,ɬ,NA,лъ,ццибурулъиссуб,sample,SA,unclear
+2114,ɬ,NA,лъ,паралъи,sample,SA,no_time
+2115,ɬ,NA,лъ,пермалъи,х,SA,no_metaph
+2116,ɬ,NA,лъ,печилъи,sample,SA,yes
+2117,ɬ,NA,лъ,печилъи,х,SA,yes
+2118,ɬ,NA,лъ,поткаласалъи,sample,SA,no  
+2119,ɬ,NA,лъ,зивлъи,sample,SA,no_time
+2120,ɬ,NA,лъ,ццибурулъиссуб,х,SA,unclear
+2121,ɬ,NA,лъ,путилъи,sample,SA,no
+2122,ɬ,NA,лъ,ццибурулъиссуб,х,SA,unclear
+2123,ɬ,NA,лъ,рагъилъи,х,SA,no
+2124,ɬ,NA,лъ,рагъалалъи,sample,SA,yes
+2125,ɬ,NA,лъ,рагъилъи,sample,SA,yes
+2126,ɬ,NA,лъ,разеткалъи,sample,SA,yes
+2127,ɬ,NA,лъ,макIилъи,sample,SA,no
+2128,ɬ,NA,лъ,рашалъи,sample,SA,no
+2129,ɬ,NA,лъ,рēбулъи,х,SA,no_time
+2130,ɬ,NA,лъ,рēбулъи,х,SA,no_time
+2131,ɬ,NA,лъ,рēбулъи,х,SA,no_time
+2132,ɬ,NA,лъ,рēбу­лъиссуб,х,SA,no_time
+2133,ɬ,NA,лъ,рēбу­лъиссуб,х,SA,no_time
+2134,ɬ,NA,лъ,рēбу­лъиссуб,х,SA,no_time
+2135,ɬ,NA,лъ,рēбу­лъиссуб,х,SA,no_time
+2136,ɬ,NA,лъ,ццибурулъиссуб,х,SA,unclear
+2137,ɬ,NA,лъ,релъи,sample,SA,yes
+2138,ɬ,NA,лъ,рекулъи,sample,SA,unclear
+2139,ɬ,NA,лъ,рēлъи,х,SA,yes
+2140,ɬ,NA,лъ,рēлъи,х,SA,yes
+2141,ɬ,NA,лъ,рēлъи,х,SA,yes
+2142,ɬ,NA,лъ,рēлъи,х,SA,yes
+2143,ɬ,NA,лъ,рēлъиссуб,х,SA,yes
+2144,ɬ,NA,лъ,рēлъиссуб,х,SA,yes
+2145,ɬ,NA,лъ,реулъи,sample,SA,no
+2146,ɬ,NA,лъ,ццибурулъи,х,SA,no_time
+2147,ɬ,NA,лъ,рищилъи,х,SA,no
+2148,ɬ,NA,лъ,печилъи,х,SA,yes
+2149,ɬ,NA,лъ,ребулъи,х,SA,no_time
+2150,ɬ,NA,лъ,ццибурулъи,х,SA,no_time
+2151,ɬ,NA,лъ,баранлъи,sample,SA,no_time
+2152,ɬ,NA,лъ,кассалъи,х,SA,yes
+2153,ɬ,NA,лъ,биччилъи,sample,SA,yes
+2154,ɬ,NA,лъ,мигъилъи,sample,SA,yes
+2155,ɬ,NA,лъ,ццибурулъи,х,SA,no_time
+2156,ɬ,NA,лъ,гьингуралъи,sample,SA,yes
+2157,ɬ,NA,лъ,ссикундалъи,sample,SA,no_time
+2158,ɬ,NA,лъ,релъиссуб,х,SA,yes
+2159,ɬ,NA,лъ,регьалъиссуб,sample,SA,yes
+2160,ɬ,NA,лъ,ушколалъиссуб,х,SA,unclear
+2161,ɬ,NA,лъ,макьилъи,х,SA,no_metaph
+2162,ɬ,NA,лъ,тавуханилъи,sample,SA,yes
+2163,ɬ,NA,лъ,тахIтасаралъи,sample,SA,yes
+2164,ɬ,NA,лъ,нихилалъи,sample,SA,yes
+2165,ɬ,NA,лъ,гьинцIцIулъи,х,SA,no
+2166,ɬ,NA,лъ,мухулъи,х,SA,no
+2167,ɬ,NA,лъ,къиндалъи,sample,SA,yes
+2168,ɬː,NA,лълъ,тIанкIēлълъи,sample,SA,no
+2169,ɬ,NA,лъ,лагалъи,sample,SA,yes
+2170,ɬ,NA,лъ,лълъенилъи,sample,SA,yes 
+2171,ɬ,NA,лъ,гьандалъи,sample,SA,no
+2172,ɬ,NA,лъ,балницалъи,sample,SA,yes
+2173,ɬ,NA,лъ,рухьулъи,sample,SA,no_sense
+2174,ɬ,NA,лъ,универмагилъи,sample,SA,no_metaph
+2175,ɬ,NA,лъ,университетилъи,х,SA,no_metaph
+2176,ɬ,NA,лъ,инссалъи,х,SA,yes 
+2177,ɬ,NA,лъ,мигъулалъи,sample,SA,yes
+2178,ɬ,NA,лъ,ццибурулъи,х,SA,no_time
+2179,ɬː,NA,лълъ,гьачIчIулълъи,sample,SA,no
+2180,ɬ,NA,лъ,хъахIлъYлъи,sample,SA,no_time
+2181,ɬ,NA,лъ,нихилалъи,sample,SA,no_sense
+2182,ɬ,NA,лъ,гьулъилъи,х,SA,no
+2183,ɬ,NA,лъ,гулатирлъи,sample,SA,no
+2184,ɬ,NA,лъ,ребулъи,х,SA,no_time
+2185,ɬ,NA,лъ,рикьилъи,х,SA,yes
+2186,e,NA,е,гьингъуле ,sample,SA,yes
+2187,ɬ,NA,лъ,гьулъилъи,х,SA,no
+2188,ɬ,NA,лъ,цебпаралъи,х,SA,no_time
+2189,ɬ,NA,лъ,цебпаралъи,sample,SA,no_time
+2190,ɬ,NA,лъ,рехъиналъи,sample,SA,yes
+2191,ɬ,NA,лъ,ццибурулъиссуб,х,SA,unclear
+2192,ɬ,NA,лъ,ццибурулъиссуб,х,SA,unclear
+2193,ɬ,NA,лъ,ццибурулъиссуб,х,SA,unclear
+2194,ɬ,NA,лъ,ребулъи,sample,SA,no_time
+2195,ɬ,NA,лъ,баранлъи,х,SA,no_time
+2196,ɬ,NA,лъ,ццибурулъи,х,SA,no_time
+2197,ɬ,NA,лъ,ццибурулъиссуб,х,SA,unclear
+2198,ɬ,NA,лъ,ццибурулъи,х,SA,no_time
+2199,ɬ,NA,лъ,ццибурулъи,х,SA,no_time
+2200,ɬ,NA,лъ,ццибурулъиссуб,х,SA,unclear
+2201,ɬ,NA,лъ,ццибурулъиссуб,х,SA,unclear
+2202,ɬ,NA,лъ,ццибурулъиссуб,х,SA,unclear
+2203,ɬ,NA,лъ,ребулъи,х,SA,no_time
+2204,ɬ,NA,лъ,баранлъи,х,SA,no_time
+2205,ɬ,NA,лъ,инссалъи,х,SA,yes 
+2206,ɬ,NA,лъ,цIцIинтурлъи,sample,SA,yes
+2207,ɬ,NA,лъ,ццибурулъиссуб,х,SA,unclear
+2208,ɬ,NA,лъ,курорталъи,х,SA,yes
+2209,ɬ,NA,лъ,заламалъи,sample,SA,yes 
+2210,ɬ,NA,лъ,заламалъи,х,SA,yes 
+2211,ɬ,NA,лъ,сиралалъи,sample,SA,yes 
+2212,ɬ,NA,лъ,нассиралъи,sample,SA,yes 
+2213,ɬ,NA,лъ,жилалъи,х,SA,yes
+2214,ɬ,NA,лъ,рēбулъи,х,SA,no_time
+2215,ɬ,NA,лъ,рейбулъи,х,SA,no_time
+2216,ɬ,NA,лъ,лълъенилъи,sample,SA,yes 
+2217,ɬ,NA,лъ,бертинлъи,х,SA,no
+2218,ɬ,NA,лъ,гьандалъи,х,SA,no
+2219,ɬ,NA,лъ,шавкъилъи,sample,SA,no
+2220,ɬ,NA,лъ,щаралъи,sample,SA,yes
+2221,ɬ,NA,лъ,щибалъи,sample,SA,yes
+2222,ɬ,NA,лъ,телевизоралъи,sample,SA,yes__no
+2223,ɬ,NA,лъ,ццибурулъиссуб,х,SA,unclear
+2224,ɬ,NA,лъ,гIумрулъида,sample,SA,no
+2225,ɬ,NA,лъ,ццибурулъиссуб,х,SA,unclear
+2226,ɬ,NA,лъ,ццибурулъиссуб,х,SA,unclear
+2227,ɬ,NA,лъ,ссураталъиссуб,sample,SA,yes
+2228,ɬ,NA,лъ,баранлъиссуб,х,SA,no_time
+2229,ɬː,NA,лълъ,гъабирлълъи,sample,SA,no
+2230,ɬː,NA,лълъ,гьаражирлълъи,х,SA,no_metaph
+2231,e,NA,е,мусе,sample,SA,yes
+2232,q,NA,хъ,духъи,sample,SA,no
+2233,q,NA,хъ,духъи,х,SA,no
+2234,q,NA,хъ,духъи,sample,SA,no
+2235,q,NA,хъ,духъи,х,SA,no
+2236,q,NA,хъ,духъи,sample,SA,yes
+2237,unclear,NA,хъ,михъи,sample,SA,yes
+2238,q,NA,хъ,духъи,х,SA,no
+2239,q,NA,хъ,дихъи,х,SA,no
+2240,q,NA,хъ,михъи,х,SA,yes
+2241,q,NA,хъ,дихъи,х,SA,no
+2242,q,NA,хъ,гархъи,sample,SA,yes
+2243,q,NA,хъ,дихъи,х,SA,no
+2244,q,NA,хъ,дихъи,х,SA,no
+2245,q,NA,хъ,дихъи,х,SA,no
+2246,q,NA,хъ,духъи,х,SA,no
+2247,q,NA,хъ,анчудахъи,sample,SA,yes
+2248,q,NA,хъ,дихъи,х,SA,no
+2249,q,NA,хъ,дихъи,х,SA,no
+2250,q,NA,хъ,духъи,sample,SA,no
+2251,q,NA,хъ,цIахъи ,sample,SA,yes
+2252,q,NA,хъ,михъи,х,SA,yes
+2253,q,NA,хъ,духъи,х,SA,no
+2254,q,NA,хъ,духъи,х,SA,no
+2255,q,NA,хъ,дихъи ,х,SA,no
+2256,q,NA,хъ,духъи,sample,SA,no
+2257,q,NA,хъ,духъи,х,SA,no
+2258,q,NA,хъ,духъи,sample,SA,no_sense
+2259,q,NA,хъ,духъи,х,SA,no_sense
+2260,q,NA,хъ,духъи,х,SA,no
+2261,q,NA,хъ,цIахъи ,х,SA,yes
+2262,q,NA,хъ,михъи ,х,SA,yes
+2263,q,NA,хъ,духъи,х,SA,no
+2264,q,NA,хъ,дихъи,х,SA,no
+2265,q,NA,хъ,дихъи,х,SA,no
+2266,q,NA,хъ,дихъи,х,SA,no
+2267,q,NA,хъ,дихъи,sample,SA,no
+2268,q,NA,хъ,духъи ,х,SA,no
+2269,q,NA,хъ,ишхъе,х,SA,yes
+2270,χ,NA,х,голухе,sample,SA,no_POSS
+2271,q,NA,хъ,ишхъе,х,SA,yes
+2272,q,NA,хъ,ишхъе,х,SA,yes
+2273,q,NA,хъ,ишхъе,х,SA,yes
+2274,q,NA,хъ,ишхъе,х,SA,yes
+2275,e,NA,е,гIурхъе,х,SA,yes
+2276,q,NA,хъ,ишхъе,х,SA,yes
+2277,q,NA,хъ,ишхъе,х,SA,yes
+2278,q,NA,хъ,ишхъе,х,SA,yes
+2279,q,NA,хъ,ишхъе,х,SA,yes
+2280,q,NA,хъ,ишхъе,х,SA,yes
+2281,q,NA,хъ,ишхъе,х,SA,yes
+2282,q,NA,хъ,ишхъе,х,SA,yes
+2283,q,NA,хъ,ишхъе,х,SA,yes
+2284,q,NA,хъ,ишхъе,х,SA,yes
+2285,q,NA,хъ,ишхъе,х,SA,yes
+2286,q,NA,хъ,ишхъе,х,SA,yes
+2287,q,NA,хъ,ишхъе,х,SA,yes
+2288,q,NA,хъ,ишхъе,х,SA,yes
+2289,q,NA,хъ,ишхъе,х,SA,yes
+2290,q,NA,хъ,ишхъе,х,SA,yes
+2291,q,NA,хъ,ишхъе,х,SA,yes
+2292,q,NA,хъ,ишхъе,х,SA,yes
+2293,q,NA,хъ,ишхъе,х,SA,yes
+2294,q,NA,хъ,ишхъе,х,SA,yes
+2295,q,NA,хъ,ишхъе,х,SA,yes
+2296,q,NA,хъ,ишхъе,х,SA,yes
+2297,q,NA,хъ,ишхъе,х,SA,yes
+2298,q,NA,хъ,ишхъе,х,SA,yes
+2299,q,NA,хъ,ишхъе,х,SA,yes
+2300,q,NA,хъ,ишхъе,х,SA,yes
+2301,q,NA,хъ,ишхъе,х,SA,yes
+2302,q,NA,хъ,ишхъе,х,SA,yes
+2303,NA,NA,NA,Буйхе,sample,SA,yes
+2304,χ,NA,х,ищихе,sample,SA,yes
+2305,χ,NA,х,ищихе,sample,SA,no_POSS
+2306,χ,NA,х,илухе,sample,SA,yes
+2307,χ,NA,х,дихе,sample,SA,yes
+2308,χ,NA,х,гьулухе,sample,SA,yes
+2309,χ,NA,х,духе,sample,SA,no_POSS
+2310,χ,NA,х,ищихе ,х,SA,yes
+2311,χ,NA,х,гьекIухе,sample,SA,yes
+2312,χ,NA,х,биштихе ,sample,SA,yes
+2313,e,NA,е,мухе,sample,SA,no
+2314,χ,NA,х,ищихе ,х,SA,yes
+2315,χ,NA,х,биштихе ,х,SA,yes
+2316,χ,NA,х,ищихе ,х,SA,yes
+2317,e,NA,е,мухе,sample,SA,no_metaph
+2318,e,NA,е,мухе,х,SA,no_metaph
+2319,χ,NA,х,корихе,sample,SA,yes
+2320,e,NA,е,мухе,х,SA,no_metaph
+2321,χ,NA,х,илухе,х,SA,yes
+2322,χ,NA,х,магIарухе,sample,SA,yes
+2323,χ,NA,х,илIихе,sample,SA,yes
+2324,χ,NA,х,илIихе,х,SA,yes
+2325,NA,NA,NA,Буйхе,х,SA,yes
+2326,χ,NA,х,ищихе,х,SA,yes
+2327,χ,NA,х,ищихе,х,SA,yes
+2328,χ,NA,х,ищихе,sample,SA,no_POSS
+2329,χ,NA,х,гьущухе,sample,SA,no_POSS
+2330,χ,NA,х,цIцIерухе,sample,SA,no
+2331,χ,NA,х,ищихе,х,SA,yes
+2332,e,NA,е,мухе,sample,SA,no
+2333,χ,NA,х,ищихе,х,SA,yes
+2334,χ,NA,х,Бо́ржихе,sample,SA,yes_lex
+2335,χ,NA,х,Гу́гихе,sample,SA,yes_lex
+2336,χ,NA,х,бацIащухе ,sample,SA,yes_lex
+2337,e,NA,е,И́нххе ,sample,SA,yes
+2338,χ,NA,х,Ко́рихе,sample,SA,yes_lex
+2339,χ,NA,х,Ще́бахе,sample,SA,yes_lex
+2340,χ,NA,х,Зана́нахе ,sample,SA,yes_lex
+2341,χ,NA,х,Ко́рихе,sample,SA,yes_lex
+2342,χ,NA,х,Ха́бухе,sample,SA,yes_lex
+2343,χ,NA,х,имухе,х,SA,unclear
+2344,χ,NA,х,мадухалзабалъихе ,sample,SA,yes
+2345,χ,NA,х,тIоргудалухи,sample,SA,no
+2346,χ,NA,х,гьущухи,х,SA,no
+2347,χ,NA,х,адамихи,sample,SA,no
+2348,χ,NA,х,анччудахи,sample,SA,yes
+2349,χ,NA,х,гьачIчIахи,sample,SA,yes
+2350,χ,NA,х,арсихи,sample,SA,no
+2351,u,NA,у,ахъулу ,sample,SA,yes
+2352,χ,NA,х,байбахи,sample,SA,yes
+2353,χ,NA,х,имухи,sample,SA,no
+2354,χ,NA,х,голълъихи,sample,SA,no
+2355,χ,NA,х,имухи,х,SA,no
+2356,χ,NA,х,голълъихи,х,SA,no
+2357,χ,NA,х,гьулълъихи,sample,SA,no
+2358,χ,NA,х,кумакахи ,sample,SA,no
+2359,χ,NA,х,гощухи,sample,SA,no
+2360,χ,NA,х,БĒБАХИ,х,SA,yes
+2361,χ,a,х,БĒБАХА,sample,SA,yes
+2362,χ,NA,х,имухи,sample,SA,no
+2363,χ,NA,х,мучулахи,sample,SA,yes
+2364,χ,NA,х,реабахи,sample,SA,no
+2365,χ,NA,х,бекьарахи,х,SA,yes
+2366,χ,NA,х,рекьарахи,х,SA,yes
+2367,χ,NA,х,бекIунахи,sample,SA,yes
+2368,χ,NA,х,бекIунахи,х,SA,yes
+2369,χ,NA,х,белетахи,sample,SA,no
+2370,χ,NA,х,бехъахи,sample,SA,no
+2371,χ,NA,х,катушкахи,sample,SA,no
+2372,χ,NA,х,мучулахи,sample,SA,unclear
+2373,χ,NA,х,гьанēхи,sample,SA,yes
+2374,χ,NA,х,гъурдехи,sample,SA,yes
+2375,χ,NA,х,гьущухи,х,SA,no
+2376,χ,NA,х,бинзинахи ,sample,SA,no
+2377,χ,NA,х,йешилълъихи,sample,SA,no
+2378,χ,NA,х,боццулахи,sample,SA,yes
+2379,χ,NA,х,боццулахи,х,SA,yes
+2380,χ,NA,х,боццурхи,sample,SA,yes
+2381,χ,NA,х,гьанкIвахи,sample,SA,yes
+2382,χ,NA,х,реабахи,sample,SA,yes
+2383,χ,NA,х,гьущухи,sample,SA,no
+2384,χ,NA,х,гощухи,sample,SA,no
+2385,χ,NA,х,чIабарахи,sample,SA,yes
+2386,χ,NA,х,зивхи,sample,SA,no_time
+2387,χ,NA,х,вечIухаимухи,х,SA,no
+2388,χ,NA,х,гьаркIкIухи,sample,SA,no
+2389,χ,NA,х,гьумибахи,sample,SA,yes
+2390,χ,NA,х,рушибахи,sample,SA,yes
+2391,χ,NA,х,чIабарахи,sample,SA,yes
+2392,χ,NA,х,гъижихи ,х,SA,yes
+2393,χ,NA,х,гъижихи ,sample,SA,yes
+2394,χ,NA,х,гъижугъвандēхи,sample,SA,yes
+2395,χ,NA,х,адамалухи ,sample,SA,no
+2396,χ,NA,х,гъурущахи,sample,SA,no
+2397,χ,NA,х,гощухи,х,SA,no
+2398,χ,NA,х,гьава-бакъихи,sample,SA,no_sense
+2399,χ,NA,х,биргадабахи,sample,SA,no
+2400,χ,NA,х,гьанкъухи,sample,SA,no_sense
+2401,χ,NA,х,гьантIукIабахи,sample,SA,yes
+2402,χ,NA,х,гьантIукIабахи,sample,SA,no
+2403,χ,NA,х,гьантIукIабахи,sample,SA,yes
+2404,χ,NA,х,кечIахи,sample,SA,no
+2405,χ,NA,х,хабарахи,sample,SA,no
+2406,χ,NA,х,нāлълъихи,sample,SA,no
+2407,χ,NA,х,имухи,sample,SA,no
+2408,χ,NA,х,гьачIчIахи,х,SA,yes
+2409,χ,NA,х,гьачIчIахи,х,SA,yes
+2410,χ,NA,х,гьачIчIахи,х,SA,yes
+2411,χ,NA,х,гьачIчIахи,х,SA,yes
+2412,χ,NA,х,гьачIчIахи,х,SA,yes
+2413,χ,NA,х,гьачIчIахи,х,SA,yes
+2414,χ,NA,х,гьачIчIахи,х,SA,yes
+2415,χ,NA,х,гьачIчIахи,х,SA,yes
+2416,χ,NA,х,гьачIчIахи,х,SA,yes
+2417,χ,NA,х,гьачIчIахи,х,SA,yes
+2418,χ,NA,х,гьачIчIахи,х,SA,yes
+2419,χ,a,х,гьехи,sample,SA,yes
+2420,χ,NA,х,гьив-гьивщухи,sample,SA,no
+2421,χ,NA,х,рекъēхи,sample,SA,yes
+2422,χ,NA,х,гIакълухи,sample,SA,no
+2423,χ,NA,х,ила-имухи,sample,SA,no
+2424,χ,NA,х,микъēхи,sample,SA,unclear
+2425,χ,NA,х,дакладахи,sample,SA,no
+2426,χ,NA,х,ххунххубахи,sample,SA,yes
+2427,χ,NA,х,къиндехи,sample,SA,yes
+2428,χ,NA,х,зурмахи,sample,SA,no
+2429,χ,NA,х,мухухи,sample,SA,no
+2430,χ,NA,х,изнухи ,sample,SA,no
+2431,χ,NA,х,гIадамалухи,sample,SA,no
+2432,χ,NA,х,ИНДµХИ,х,SA,unclear
+2433,χ,NA,х,инчухи,sample,SA,no
+2434,χ,NA,х,инчухи,sample,SA,no
+2435,χ,NA,х,миллионихи,sample,SA,no
+2436,χ,NA,х,каламахи,sample,SA,no
+2437,χ,NA,х,каникулдехи,sample,SA,no_time
+2438,χ,NA,х,капекахи,sample,SA,no
+2439,χ,NA,х,квачIибахи,sample,SA,unclear
+2440,χ,NA,х,ракIвархи,sample,SA,no
+2441,χ,NA,х,кирихи,sample,SA,no
+2442,χ,NA,х,кирихи,sample,SA,no
+2443,χ,NA,х,чIчIидурахи,sample,SA,yes
+2444,χ,NA,х,гьущухи ,х,SA,no
+2445,χ,NA,х,гьачIчIахи,х,SA,yes
+2446,χ,NA,х,микъехи,sample,SA,unclear
+2447,χ,NA,х,къватIēхи,sample,SA,yes
+2448,e,NA,е,къватIé,х,SA,yes
+2449,χ,NA,х,къерухи,sample,SA,no
+2450,χ,NA,х,гьантIукIабахи,sample,SA,yes
+2451,χ,NA,х,гьачIчIахи,sample,SA,yes
+2452,χ,NA,х,кьетIехи,sample,SA,no_sense
+2453,χ,NA,х,кьудехи ,sample,SA,yes
+2454,χ,NA,х,катушкахи,х,SA,no
+2455,χ,NA,х,макIилухи,sample,SA,no_sense
+2456,χ,NA,х,гьудулахи,sample,SA,no
+2457,χ,NA,х,мадугьалзабалъихи,sample,SA,no
+2458,χ,NA,х,илухи,sample,SA,no
+2459,χ,NA,х,гIабдалахи ,sample,SA,no
+2460,χ,NA,х,нучирхи,sample,SA,no_sense
+2461,χ,NA,х,паларссахи,sample,SA,no
+2462,χ,NA,х,палипанихи,sample,SA,no_sense
+2463,χ,NA,х,мучулахи,х,SA,yes
+2464,χ,NA,х,рухьехи,sample,SA,yes
+2465,χ,NA,х,реабахи,sample,SA,yes
+2466,χ,NA,х,радивалихи ,sample,SA,no_sense
+2467,χ,NA,х,рацIандехи,sample,SA,yes
+2468,χ,NA,х,регъибахи,sample,SA,yes
+2469,χ,NA,х,хъутандехи,sample,SA,yes
+2470,χ,NA,х,гьачIчIахи,х,SA,yes
+2471,χ,NA,х,рукIа-рахъинхи,sample,SA,no_sense
+2472,χ,NA,х,гьантIукIабахи,х,SA,yes
+2473,χ,NA,х,САДАРÁХИ ,sample,SA,yes
+2474,e,NA,е,САДАРÉ,sample,SA,yes
+2475,χ,NA,х,микъехи,х,SA,unclear
+2476,χ,NA,х,гъурушахи,х,SA,no
+2477,χ,NA,х,гьачIчIахи,sample,SA,yes
+2478,χ,NA,х,басēхи,sample,SA,yes
+2479,χ,NA,х,аллагьащухи,sample,SA,no
+2480,χ,NA,х,микъехи,х,SA,unclear
+2481,χ,NA,х,хъутабахи ,sample,SA,yes
+2482,χ,NA,х,рушибахи,х,SA,yes
+2483,χ,NA,х,бекIунахи,х,SA,yes
+2484,χ,NA,х,кIвахIаллъовщухи,sample,SA,no_sense
+2485,χ,NA,х,гьудулахи,sample,SA,yes
+2486,χ,NA,х,макIилухи,х,SA,no_sense
+2487,χ,NA,х,гощухи ,х,SA,no
+2488,χ,NA,х,гьущухи,х,SA,no
+2489,χ,NA,х,гьачIчIахи,sample,SA,yes
+2490,χ,NA,х,гьачIчIахи,sample,SA,yes
+2491,χ,NA,х,чIабарахи,х,SA,yes
+2492,χ,NA,х,чIабарахи,х,SA,yes
+2493,χ,NA,х,чIабарахи,sample,SA,yes
+2494,χ,NA,х,реабахи,sample,SA,yes
+2495,χ,NA,х,ххунххубахи,sample,SA,no
+2496,č,unclear,чI,гьулъичIуху,sample,SA,no
+2497,χ,NA,х,чIчIидурахи,sample,SA,yes
+2498,χ,NA,х,чIчIидурахи,sample,SA,unclear
+2499,χ,NA,х,чIчIидурахи,sample,SA,yes_metaph
+2500,χ,NA,х,гъижихи ,х,SA,yes
+2501,χ,NA,х,кирtхи,х,SA,no
+2502,χ,NA,х,гьеêхи,х,SA,yes
+2503,χ,NA,х,машинахи,sample,SA,no
+2504,unclear,NA,unclear,имухе____имухи ,х,SA,yes
+2505,χ,NA,х,илухи,х,SA,no
+2506,č,ku,чI,бекъинирчIукула,sample,SA,no
+2507,č,ku,чI,анччучIукула ,sample,SA,no
+2508,č,NA,чI,ракIварчIуссуб,sample,SA,unclear
+2509,č,NA,чI,ракIварчIуда,sample,SA,unclear
+2510,č,NA,чI,дучIуда,sample,SA,no_POSS
+2511,č,ku,чI,дучIукуда,sample,SA,no
+2512,č,ku,чI,дучIукуда,sample,SA,yes
+2513,ƛʼ,NA,кь,аркъвакьи,sample,SA,yes
+2514,ƛʼ,NA,кь,гьикьи,sample,SA,yes
+2515,ƛʼ,NA,кь,ургъалакьи,sample,SA,no_metaph
+2516,ƛʼ,NA,кь,гьикьи,х,SA,unclear
+2517,ƛʼ,NA,кь,бегъвакьи,sample,SA,yes
+2518,ƛʼ,NA,кь,бегъвакьи,sample,SA,yes
+2519,ƛʼ,NA,кь,бегъвакьи,х,SA,yes
+2520,ƛʼ,NA,кь,гьикьи,х,SA,yes
+2521,ƛʼ,NA,кь,гьикьи,х,SA,no
+2522,ƛʼ,NA,кь,гьикьи,х,SA,yes
+2523,ƛʼ,NA,кь,ургъалакьи,х,SA,no_metaph
+2524,ƛʼ,NA,кь,ахикьи,х,SA,yes
+2525,ƛʼ,NA,кь,гъванакьи,sample,SA,yes
+2526,ƛʼ,NA,кь,гъванакьи,sample,SA,yes
+2527,ƛʼ,NA,кь,гьардукьи,sample,SA,yes
+2528,ƛʼ,NA,кь,ахикьи,х,SA,yes
+2529,ƛʼ,NA,кь,гьикьи-гьеа,sample,SA,yes
+2530,ƛʼ,NA,кь,гьикьи,х,SA,yes
+2531,ƛʼ,NA,кь,гьикьи,х,SA,yes
+2532,ƛʼ,NA,кь,гьикьи,х,SA,yes
+2533,ƛʼ,NA,кь,гьикьи,х,SA,yes
+2534,ƛʼ,NA,кь,гьикьи,х,SA,yes
+2535,ƛʼ,NA,кь,гьикьи-гьеа,sample,SA,yes
+2536,ƛʼ,NA,кь,гьикьи-гьеа,х,SA,yes
+2537,ƛʼ,NA,кь,гьикьи-гьеа,sample,SA,yes
+2538,ƛʼ,NA,кь,гьикьи-гьеа,х,SA,yes
+2539,ƛʼ,NA,кь,гьикьи-гьеа,х,SA,yes
+2540,ƛʼ,NA,кь,гьикьи-гьеа,х,SA,yes
+2541,ƛʼ,ku,кь,гьикьикуда,sample,SA,unclear
+2542,ƛʼ,NA,кь,ургъалакьи,х,SA,no_metaph
+2543,ƛʼ,NA,кь,ахикьи,х,SA,yes
+2544,ƛʼ,NA,кь,ургъалакьи,х,SA,no_metaph
+2545,ƛʼ,NA,кь,микъаракьи,sample,SA,yes
+2546,ƛʼ,NA,кь,бегъвакьи,х,SA,yes
+2547,ƛʼ,NA,кь,гьикьи-гьеа,х,SA,yes
+2548,ƛʼ,NA,кь,мигьилакьи,sample,SA,yes
+2549,ƛʼ,NA,кь,микъаракьи,sample,SA,yes
+2550,ƛʼ,ku,кь,гьикьикуссуб,х,SA,yes
+2551,ƛʼ,NA,кь,гьикьи-гьеа,х,SA,yes
+2552,ƛʼ,ku,кь,гьикьику,sample,SA,yes
+2553,ƛʼ,NA,кь,решинакьи,sample,SA,yes
+2554,ƛʼ,NA,кь,гьикьиссуб (гьеа),х,SA,yes
+2555,unclear,a,unclear,гьеа,sample,SA,yes
+2556,ƛʼ,NA,кь,хъатикьи,sample,SA,yes
+2557,ƛʼ,ku,кь,гьикьику ,sample,SA,yes
+2558,ƛʼ,NA,кь,решинакьи,х,SA,yes
+2559,ƛʼ,NA,кь,цIекIабакьи ,sample,SA,yes
+2560,ƛʼ,NA,кь,ахикьи,х,SA,yes
+2561,ƛʼ,NA,кь,чорчолакьи,sample,SA,yes
+2562,unclear,NA,unclear,И́нкубакьи,х,SA,unclear
+2563,ɬ,NA,лъ,аваданабирлъи,sample,SA,no
+2564,e,NA,е,ракIваре,sample,SA,unclear
+2565,e,NA,е,авале,sample,SA,yes
+2566,e,NA,е,авале,sample,SA,yes
+2567,e,NA,е,мусуре,sample,SA,yes
+2568,e,NA,е,ракIваре,х,SA,unclear
+2569,u,NA,у,ахъулу,sample,SA,yes
+2570,e,NA,е,къватIе,sample,SA,yes
+2571,e,NA,е,истуре,sample,SA,yes
+2572,e,NA,е,устуре,sample,SA,yes
+2573,e,NA,е,гъваркьимусе,sample,SA,yes
+2574,e,NA,е,гъижугъване,sample,SA,yes
+2575,e,NA,е,гьингуре,sample,SA,yes
+2576,NA,NA,NA,гьинцIцIу,sample,SA,yes
+2577,e,NA,е,микъе,sample,SA,yes
+2578,e,NA,е,устуре ,х,SA,yes
+2579,e,NA,е,тукане,sample,SA,yes
+2580,e,NA,е,гьингуре,sample,SA,yes
+2581,e,NA,е,зама-замане,х,SA,no_time
+2582,e,NA,е,кванаре,х,SA,yes
+2583,e,NA,е,кванаре,х,SA,yes
+2584,e,NA,е,игьуре,sample,SA,yes
+2585,e,NA,е,гьингуре,sample,SA,yes
+2586,e,NA,е,ракIваре,х,SA,unclear
+2587,e,NA,е,макье,sample,SA,no_metaph
+2588,e,NA,е,устуре,х,SA,yes
+2589,e,NA,е,микье,sample,SA,yes
+2590,e,NA,е,мусе,х,SA,yes
+2591,e,NA,е,тукане,х,SA,yes
+2592,e,NA,е,устуре ,х,SA,yes
+2593,e,NA,е,мусе ,х,SA,yes
+2594,e,NA,е,дунеле,sample,SA,yes
+2595,e,NA,е,руше,sample,SA,yes
+2596,NA,a,NA,рузмана,sample,SA,no
+2597,e,NA,е,рузмана,sample,SA,no
+2598,e,NA,е,саире,sample,SA,yes
+2599,e,NA,е,саире,х,SA,yes
+2600,e,NA,е,байдане,sample,SA,yes
+2601,NA,a,NA,байдана,sample,SA,yes
+2602,e,NA,е,хIале ,sample,SA,no_metaph
+2603,e,NA,е,хIале ,х,SA,no_metaph
+2604,e,NA,е,къватIе,х,SA,yes
+2605,e,NA,е,устуре,х,SA,yes
+2606,e,NA,е,шандире,sample,SA,yes
+2607,unclear,NA,unclear,гьанкъу,sample,SA,yes
+2608,u,NA,у,ахъулу,х,SA,yes
+2609,unclear,a,unclear,микъа ,sample,SA,yes
+2610,u,NA,у,амбуру,sample,SA,yes
+2611,NA,a,NA,битIира,sample,SA,yes
+2612,NA,a,NA,цIеа,sample,SA,yes
+2613,unclear,a,unclear,микъа ,х,SA,yes
+2614,e,NA,е,устуре,х,SA,yes
+2615,e,NA,е,микъе,х,SA,yes
+2616,e,NA,е,руше,sample,SA,yes
+2617,NA,a,NA,гIатIиракьалда,sample,SA,yes
+2618,NA,a,NA,хъутана,sample,SA,yes
+2619,e,NA,е,хъутане,sample,SA,yes
+2620,NA,a,NA,гIатIиракьалда,х,SA,yes
+2621,e,NA,е,гъазавате,sample,SA,no
+2622,unclear,a,unclear,микъа ,х,SA,unclear
+2623,e,NA,е,устурēда,sample,SA,yes
+2624,u,NA,у,хуру,sample,SA,yes
+2625,NA,NA,NA,гьинцIцIу,х,SA,yes
+2626,e,NA,е,байдане,х,SA,yes
+2627,NA,NA,NA,зурзунчи,sample,SA,yes
+2628,e,NA,е,руше,sample,SA,yes
+2629,ɬ,NA,лъ,кагъаталъS,sample,SA,yes
+2630,NA,NA,NA,кāра,sample,SA,yes
+2631,u,NA,у,колу,sample,SA,yes
+2632,NA,a,NA,тукана,sample,SA,yes
+2633,NA,a,NA,орсса,sample,SA,yes
+2634,u,NA,у,орссу,sample,SA,yes
+2635,u,NA,у,орссу,х,SA,yes
+2636,e,NA,е,рушела,sample,SA,yes
+2637,NA,NA,NA,лъарагIлъийалда,sample,SA,yes
+2638,NA,NA,NA,лъарагIлъийалда,х,SA,yes
+2639,NA,a,NA,микъа,sample,SA,yes
+2640,NA,NA,NA,руша,sample,SA,yes
+2641,e,NA,е,ракIваре,х,SA,unclear
+2642,NA,a,NA,цIеа,sample,SA,yes
+2643,NA,NA,NA,рекъа,sample,SA,yes
+2644,NA,a,NA,цIцIункIкIира,sample,SA,yes
+2645,NA,a,NA,чана ,sample,SA,no
+2646,NA,a,NA,игьура ,sample,SA,yes
+2647,e,NA,е,мусе,х,SA,yes
+,
